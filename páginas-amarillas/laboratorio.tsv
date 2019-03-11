@@ -1,0 +1,981 @@
+consulta	nombre	categoria	direccion	pagina_web	telefono
+laboratorio	Odontolab	Laboratorios Dentales	Baquedano 915 Antofagasta - II Región	www.odontolab.cl	(56)552788853
+laboratorio	Diprolab M.R.	Equipos Para Laboratorios	Cruz 1126 Concepción - VIII Región	www.diprolab.cl	(56)412620730
+laboratorio	Cds Diagnóstico	Laboratorios Clinicos	Moneda 1040 SANTIAGO - RM	NA	(56)226714105
+laboratorio	Radiología Irus	Medicos Centros Medicos	18 de Septiembre 1045 Chillán - VIII Región	www.radiologiairus.cl	(56)422834851
+laboratorio	Vida Integra	Laboratorios Clinicos	Apoquindo 3281 LAS Condes - RM	www.vidaintegra.cl	6006008432
+laboratorio	Laboratorio Clínico 5 de Abril	Laboratorios Clinicos	Av Argentina 648 Chillán - VIII Región	www.laboratorio5deabril.cl	(56)422224425
+laboratorio	Centro Médico Urmeneta	Medicos Centros Medicos	Av. J Tomás Urmeneta 950 Limache - V Región	www.centromedicourmenetalimache.cl	(56)332333820
+laboratorio	Centro Radiológico Costanera	Medicos Centros Medicos	Pedro Lagos 1090 9 Iquique - I Región	www.radiologiacostanera.cl	(56)572416153
+laboratorio	Edificio Médico Beauchef	Medicos Centros Medicos	Beauchef 723 Valdivia - XIV Región	NA	(56)632225422
+laboratorio	Saba	Ropa De Trabajo	Maipú 839 Concepción - VIII Región	www.saba.cl	(56)412228609
+laboratorio	Laboratorio Clínico Blanco	Laboratorios Clinicos	Salvador 31 - 41-65 PROVIDENCIA - RM	www.laboratorioblanco.cl	(56)224905500
+laboratorio	Centro Médico Emsa	Medicos Centros Medicos	San Martín 1350 Concepción - VIII Región	www.centromedicoemsa.cl	(56)412290100
+laboratorio	Gálvez e Hijos LTDA.	Tamices	General Mackenna 1579 SANTIAGO - RM	www.galvezehijos.cl	(56)226969339
+laboratorio	Centro Médico Tenmédica	Medicos Centros Medicos	San Martín 1338 Concepción - VIII Región	NA	(56)412290184
+laboratorio	Laboratorio Clínico Diagnostika	Laboratorios Clinicos	Beaucheff 925 Valdivia - XIV Región	www.laboratorioclinicodiagnostika.cl	(56)632249268
+laboratorio	Molinstec	Ingenieria De Proyectos	Colo Colo 1151 Concepción - VIII Región	www.molinstec.cl	(56)412182750
+laboratorio	Centro Médico Evaluamed	Laboratorios Clinicos	Av. Francisco Bilbao 3412 Dpto. 103 Iquique - I Región	www.evaluamed.cl	(56)572213863
+laboratorio	Acqua Vita	Agua Purificada	No Publica Dirección : Villa Alemana - V Región	www.acquavitachile.cl	(56)992446526
+laboratorio	Colordent	Laboratorios Dentales	No Publica Dirección : Curicó - VII Región	NA	(56)989817861
+laboratorio	Laboratorio Clínico San Andrés	Laboratorios Clinicos	Manuel Peñafiel 293 Ovalle - IV Región	NA	(56)532620369
+laboratorio	Centro Médico Baquedano	Laboratorios Clinicos	Vicuña Mackenna 3 Of. 204 SANTIAGO - RM	www.baquedanocentromedico.cl	(56)226331237
+laboratorio	Hospital Veterinario Concepción	Clinicas Veterinarias	Bernardino Corral 117 Concepción - VIII Región	www.hvc.cl	(56)412935273
+laboratorio	Centro Radiológico Imatec Salud	Laboratorios Clinicos	Juan de Dios Pení 463 La Serena - IV Región	www.imatecsalud.cl	(56)512216251
+laboratorio	Laboratorio Clínico Analyzer	Laboratorios Clinicos	Matta 309 Dpto. B La Serena - IV Región	www.analyzer.cl	(56)512544704
+laboratorio	Clínica Veterinaria Huellitas	Medicos Veterinarios	Luis Flores 483 Copiapó - III Región	www.veterinariahuellitas.cl	(56)522233133
+laboratorio	Centro Médico Cordillera	Medicos Centros Medicos	Av. Argentina 648 Chillán - VIII Región	www.centromedicocordillera.cl	(56)422242118
+laboratorio	Dr. Carlos Merino Michel	Medicos Hematologia Y Citodiagnostico	14 Norte 571 Of. 205 Viña del Mar - V Región	NA	(56)322698830
+laboratorio	Laboratorio Clínico Dr. Torrejón y Cía. LTDA.	Laboratorios Clinicos	Tucapel 286 Concepción - VIII Región	www.labtorrejon.cl	(56)412214797
+laboratorio	Laboratorio Clínico y Centro Médico Valdivia	Laboratorios Clinicos	Maipú 125 Valdivia - XIV Región	NA	(56)632212717
+laboratorio	Laboratorio Oxman Cía. LTDA.	Laboratorios Clinicos	Paseo Presidente Bulnes 79 Of. 24 Metro Moneda SANTIAGO - RM	www.laboratorioclinicooxman.cl	(56)226984440
+laboratorio	Droguería Michelson	Reactivos Para Analisis	Antonio Secchi 037 ÑUÑOA - RM	www.drogueriamichelson.cl	(56)225566098
+laboratorio	Heyn y Cía. LTDA.	Articulos Para Laboratorios	Dardignac 239 RECOLETA - RM	www.heyn.cl	(56)227375449
+laboratorio	Clínica Veterinaria Kennel	Peluquerias Para Perros	Av. San Martín 01580 Temuco - IX Región	NA	(56)452313000
+laboratorio	Laboratorio Bioanálisis	Laboratorios Clinicos	Manuel Rodriguez 565 Curicó - VII Región	NA	(56)752314004
+laboratorio	Clínica Veterenaria Pets Life	Clinicas Veterinarias	Av Austral 1853 Puerto Montt - X Región	www.petslifevetetinaria.cl	(56)652263000
+laboratorio	Clínica Veterenaria Pets Life	Clinicas Veterinarias	Av Austral 1853 Puerto Montt - X Región	www.petslifevetetinaria.cl	(56)652263000
+laboratorio	Labotec los Ángeles LTDA.	Laboratorios De Ensayo De Materiales	San Martín 871 Los Angeles - VIII Región	www.laboteclosangeles.cl	(56)432326461
+laboratorio	Dilab Laboratorio Clínico	Laboratorios Clinicos	Av Vicuña Mackenna 6 PROVIDENCIA - RM	www.dilab.cl	(56)222223112
+laboratorio	Hospital Veterinario Concepción	Laboratorios Veterinarios	Bernardino Corral 117 Concepción - VIII Región	www.hvc.cl	(56)412935273
+laboratorio	Laboratorio Clínico Imex	Laboratorios Clinicos	Av. Alemania 0849 Loc. 4 Temuco - IX Región	www.laboratorioimex.cl	(56)452213269
+laboratorio	Laboratorio Hormono Análisis	Laboratorios Clinicos	General Flores 20 PROVIDENCIA - RM	www.labhormonoanalisis.cl	(56)222360172
+laboratorio	Laboratorio Plaza Egaña	Laboratorios Clinicos	Av Irarrázaval 5690 ÑUÑOA - RM	www.laboratorioclinicoplazaegana.cl	(56)222776722
+laboratorio	Laboratorio Biomed	Laboratorios Clinicos	Benavente 761 Puerto Montt - X Región	www.laboratoriobiomed.cl	(56)652329400
+laboratorio	Ópticas y Lentes de Contacto Pedro Charlín	Opticas	Av Nueva Providencia 1881 PROVIDENCIA - RM	www.opticacharlin.cl	(56)223347075
+laboratorio	Pesajes y Servicios	Balanzas	Los Naranjos 14 San Pedro de la Paz - VIII Región	www.pesajesyservicios.cl	(56)412370246
+laboratorio	Teknocal LTDA.	Balanzas	Fco. de Camargo 14317 SAN Bernardo - RM	www.teknocal.cl	(56)228597741
+laboratorio	Instituto de Patología Viña del Mar	Laboratorios Clinicos	No Publica Dirección : Viña del Mar - V Región	www.patologia.cl	(56)322692210
+laboratorio	Instituto de Patología Viña del Mar	Laboratorios Clinicos	3 Norte 957 Viña del Mar - V Región	www.patologia.cl	(56)322692210
+laboratorio	Laboratorio Clínico Atenea	Laboratorios Clinicos	Tte. Manuel Orella 610 Dpto. 401 Antofagasta - II Región	www.laboratorioatenea.cl	(56)998489679
+laboratorio	Laboratorio Clínico Santa Maria LTDA.	Laboratorios Clinicos	Avda Luis Cruz Martinez 1432 Molina - VII Región	www.lcsantamaria.cl	(56)752554790
+laboratorio	Construlab	Muebles Para Laboratorios	No Publica Dirección : LA Pintana - RM	www.construlab.cl	(56)985969188
+laboratorio	Servicios Técnicos y Soporte Femava Spa	Equipos Para Laboratorios	Pje Sargento Aldea 121 SAN Bernardo - RM	www.femava.cl/	(56)991618266
+laboratorio	Empro LTDA.	Laboratorios De Ensayo De Materiales	Av Paicaví 3001 Concepción - VIII Región	NA	(56)412741727
+laboratorio	Laboratorio Hormono Análisis	Laboratorios Clinicos	General Flores 20 PROVIDENCIA - RM	NA	(56)222360172
+laboratorio	Laboratorio Vettest	Laboratorios Veterinarios	No Publica Dirección : VITACURA - RM	NA	(56)974314582
+laboratorio	Laboratorio Veterinario Survet LTDA.	Laboratorios Veterinarios	Cochrane 952 Osorno - X Región	www.survet.cl	(56)642262250
+laboratorio	Laboratorio Clínico Fischer	Laboratorios Clinicos	Lib. B. O'Higgins 372 Constitución - VII Región	NA	(56)712672079
+laboratorio	Diverzoovet Clínica Veterinaria	Clinicas Veterinarias	Salvador Izquierdo 1918 LA Reina - RM	www.diverzoovet.cl	(56)229805465
+laboratorio	Pce Instruments Chile	Pesaje Industrial	Av Santos Dumont 738 4 Local 4 RECOLETA - RM	www.pce-instruments.com/chile	(56)224053096
+laboratorio	Laboratorio Clínico Novalab Chile	Laboratorios Clinicos	Angol 81 Concepción - VIII Región	www.novalabchile.cl	(56)412216535
+laboratorio	Aselab Limitada	Laboratorios De Analisis De Agua	Av. Liber. B.O'Higgins 240 San Fernando - VI Región	www.aselab.cl	(56)722712063
+laboratorio	Clínica Onavet	Medicos Veterinarios	Armando Sanhueza 2441 Punta Arenas - XII Región	www.onavet.cl	(56)612267240
+laboratorio	Laboratorio Dental Isadent	Laboratorios Dentales	Alonso Alvarez 289 PUENTE Alto - RM	www.laboratoriodentalisadent.cl	(56)954291812
+laboratorio	Revic	Laboratorios De Cosmeticos	Estación Trapi 3174 PUENTE Alto - RM	NA	(56)969001444
+laboratorio	Laboratorio Clínico Inmunomédica	Laboratorios Clinicos	San Martín 920 Concepción - VIII Región	www.inmunomedica.cl	(56)412108223
+laboratorio	Escuela Particular Lidia Riquelme	Colegios	Molco 22 Nueva Imperial - IX Región	www.escuelainternadolidiariquelme.cl	(56)451972479
+laboratorio	Geoquímica	Laboratorios De Analisis Quimico	Gerónimo Méndez 1851 Coquimbo - IV Región	NA	(56)512544330
+laboratorio	Ankavi Laboratorio Dental Digital	Laboratorios Dentales	Lincoyán 569 Piso 4 Depto. 402 Concepción - VIII Región	www.laboratorioankavi.cl	(56)413183440
+laboratorio	Laboratorio Dental Jireh	Laboratorios Dentales	Diego Portales 889 Temuco - IX Región	www.laboratoriodentaljirhe.cl	(56)992018250
+laboratorio	C & C Escuela de Conductores	Escuelas De Conductores	Av Pedro Montt 2368 Valparaíso - V Región	www.cycconductores.cl	(56)323173518
+laboratorio	Centro Médico Ossandon	Medicos Centros Medicos	Lago General Carrera 6 PUDAHUEL - RM	www.centromedicoossandon.cl	(56)227496009
+laboratorio	Uv Optik	Opticas	Pte. Julio Roca 974 Punta Arenas - XII Región	www.uvoptik.cl	(56)612410726
+laboratorio	Pesaje Industrial LTDA.	Pesaje Industrial	San Manuel 4045 MAIPÚ - RM	www.pesajeindustrial.cl	(56)990996194
+laboratorio	Mb-Dent	Laboratorios Dentales	Marcela Paz 1510 Los Andes - V Región	NA	(56)342467386
+laboratorio	Femm Laboratorio Dental	Laboratorios Dentales	Ps Ahumada 131 SANTIAGO - RM	www.femmlaboratoriodental.cl	(56)945050589
+laboratorio	Metlab Spa	Equipos Para Laboratorios	Guardia Vieja 255 Oficina 1112 PROVIDENCIA - RM	www.metlab.cl	(56)999390417
+laboratorio	Sm Pesaje y Control Industrial	Pesaje Industrial	No Publica Dirección : Talca - VII Región	www.smpesaje.cl	(56)956280325
+laboratorio	Laboratorio Clínico Tenmédica	Laboratorios Clinicos	San Martín 1338 Concepción - VIII Región	NA	(56)412290184
+laboratorio	Cliperplast ®	Bolsas Plasticas	Loreto 173 RECOLETA - RM	www.cliperplast.cl	(56)227773848
+laboratorio	Laboratorio y Clínica Dental Durán	Laboratorios Dentales	Paseo Huerfanos 713 SANTIAGO - RM	NA	(56)226384338
+laboratorio	Laboratorio Clínico Paul Ehrlich	Laboratorios Clinicos	José de San Martín 2390 Antofagasta - II Región	www.laboratorioclinicopaulehrlich.cl	(56)552382540
+laboratorio	Laboratorio Magallanes	Laboratorios Clinicos	Av Colón 1098 Punta Arenas - XII Región	www.laboratoriomagallanes.cl	(56)612244454
+laboratorio	Domicilio Vet'S	Clinicas Veterinarias	No Publica Dirección : PUENTE Alto - RM	www.domiciliovets.cl	(56)975207693
+laboratorio	Clínica Veterinaria Atenas	Clinicas Veterinarias	Chacabuco 204 Ovalle - IV Región	NA	(56)532623868
+laboratorio	Laboratorio Terrabotánica	Laboratorios De Productos Naturales	Av. Portugal 1665 SANTIAGO - RM	www.terrabotanica.cl	(56)225443409
+laboratorio	Clínica Veterinaria Dogtor	Clinicas Veterinarias	Eyzaguirre 19 SAN Bernardo - RM	www.dogtor.cl	(56)223596548
+laboratorio	Laboratorio Clínico Dr. Torrejón y Cía. LTDA.	Laboratorios Clinicos A Domicilio	Tucapel 286 Concepción - VIII Región	www.labtorrejon.cl	(56)412227896
+laboratorio	Centro Médico Choapamed	Medicos Centros Medicos	Independencia 386 Illapel - IV Región	www.choapamed.cl	(56)532523515
+laboratorio	Confecciones a Medida Maryely	Uniformes	Pje Los Llameros 3090 Iquique - I Región	www.facebook.com/confeccionesmaryely	(56)572312954
+laboratorio	Tintas Lorena	Suministros Para Computadores	No Publica Dirección 0 Valdivia - XIV Región	www.tintaslorena.cl	(56)993799958
+laboratorio	Laboratorio Clínico Tecmed	Laboratorios Clinicos	Cobija 2191 Calama - II Región	www.tecmedcalama.cl	(56)552319179
+laboratorio	Serquim LTDA.	Laboratorios De Analisis Quimico	Ongolmo 295 Antofagasta - II Región	NA	(56)552299899
+laboratorio	Laboratorio Clínico Ancud	Laboratorios Clinicos	Aníbal Pinto 308 Ancud - X Región	www.laboratorioancud.cl	(56)652623017
+laboratorio	Centro de Diagnóstico Otorrino Cedio LTDA.	Medicos Otorrinolaringologia	Manuel Antonio Matta 1839 Antofagasta - II Región	NA	(56)552221194
+laboratorio	Hidrolact	Laboratorios Clinicos	Almirante Pastene 185 PROVIDENCIA - RM	www.hidrolact.cl	(56)223431158
+laboratorio	Laboratorio Clínico Alexander Fleming	Laboratorios Clinicos	2 Sur 772 Talca - VII Región	NA	(56)712225127
+laboratorio	Óptica y Laboratorio Real	Opticas	Enrique Mac-Iver 180 2 24 SANTIAGO - RM	2	(56)944284539
+laboratorio	Clínica Veterinaria Patas y Colas	Clinicas Veterinarias	General Gorostiaga 1009 Concepción - VIII Región	NA	(56)412461665
+laboratorio	Respiromédica	Medicos Broncopulmonares Infantil	7 Norte 645 Oficina 905 Viña del Mar - V Región	www.respiromedica.cl	(56)322693532
+laboratorio	Aguas - Suelos y Ambiental Analytica Chañar LTDA.	Laboratorios De Analisis De Agua	Infante 445 Copiapó - III Región	www.analyticachanar.cl	(56)522367071
+laboratorio	Autozvlimitada	Garajes	Obpo. A. Espinoza C. 260 MACUL - RM	www.tallerzv.cl	(56)222384531
+laboratorio	Importadora Biocare Ltda	Sillas De Ruedas	Av Victoria 2716 Valparaíso - V Región	www.ibiocare.cl	(56)322918598
+laboratorio	Dra. Valentina Quiroga Soto	Medicos Pediatria	Colo-Colo 293 Concepción - VIII Región	NA	(56)412232019
+laboratorio	Xmet	Mineria	Emilio Vaisse Houle 01455 Antofagasta - II Región	www.xmet.cl	(56)995791532
+laboratorio	Clínica Cumbres Pampinas	Clinicas	Carmela Carvajal 3023 -A . Alto Hospicio - I Región	www.clinicacumbrespampinas.cl	(56)974019032
+laboratorio	Muebles Escolares Arcoíris Chile	Muebles Para Oficina	David Perry 0560 Temuco - IX Región	www.arcoirischile.cl	(56)452220205
+laboratorio	Dr. Arquimedes Guevara S.	Medicos Medicina General	Tucapel 173 Concepción - VIII Región	NA	(56)412228350
+laboratorio	Rincon Vet	Clinicas Veterinarias	Pucará 4317 ÑUÑOA - RM	www.rinconvet.com	(56)956161238
+laboratorio	Veterinaria Arica	Medicos Veterinarios	Pje Payachatas 1749 Arica - XV Región	NA	(56)582263303
+laboratorio	Centro de Alergias e Inmunología del Sur C.A.I.D.S	Medicos Inmunologia	Janequeo 187 Concepción - VIII Región	www.caids.cl	(56)412226456
+laboratorio	Hospital Veterinario Concepción	Medicos Veterinarios	Bernardino Corral 117 Concepción - VIII Región	www.hvc.cl	(56)412935273
+laboratorio	Centro Médico y Laboratorio Cedilab M y S	Medicos Centros Medicos	Playa Blanca 1335 Antofagasta - II Región	www.cedilab.cl	(56)997354674
+laboratorio	Centro Médico Dinamarca	Medicos Centros Medicos	Dinamarca 621 Temuco - IX Región	NA	(56)452204200
+laboratorio	Centro Médico Limache	Medicos Centros Medicos	Av J Tomás Urmeneta 496 Limache - V Región	www.centromedicolimache.cl	(56)332412786
+laboratorio	Cmedical	Articulos Medicos	No Publica Dirección : Coquimbo - IV Región	www.cmedical.cl	(56)512266207
+laboratorio	Laboratorio Ortopédico Génesis	Articulos Ortopedicos	Balmaceda 1067 La Serena - IV Región	www.ortopediagenesis.cl	(56)512283245
+laboratorio	Laboratorio Ortopédico Francisco Marín	Articulos Medicos	Dinamarca 661 Temuco - IX Región	NA	(56)452401352
+laboratorio	Ecocentro	Medicos Ecografia	No Publica Dirección : Viña del Mar - V Región	www.ecocentrolimitada.cl	(56)322686062
+laboratorio	Clínica Veterinaria Lyon	Clinicas Veterinarias	Freire 1331 Concepción - VIII Región	NA	(56)412738909
+laboratorio	Clínica Veterinaria Petrohue	Clinicas Veterinarias	Av Santa María 600 Puerto Montt - X Región	www.veterinariapetrohue.cl	(56)652313192
+laboratorio	Dra. Valentina Quiroga Soto	Medicos Afecciones Bronquiales Infantiles	Colo-Colo 293 Concepción - VIII Región	NA	(56)412232019
+laboratorio	Centro Médico Inmunomédica	Medicos Centros Medicos	San Martín 920 Concepción - VIII Región	www.inmunomedica.cl	(56)412108200
+laboratorio	Veterinaria San Marcos	Medicos Veterinarios	Gran Av. José Miguel Carrera 8475 LA Cisterna - RM	www.veterinariasanmarcos.cl	(56)225583815
+laboratorio	Vacunatorio y Clínica Dental Endodent	Vacunatorios	Av Pedro Aguirre C 1055 2 Centro Comercial Versluys San Pedro de la Paz - VIII Región	www.endodent.cl	(56)412466400
+laboratorio	Seal LTDA.	Acuicultura	San Martín 930 Castro - X Región	NA	(56)652633610
+laboratorio	Ingenio Spa	Maquinaria Industrial	Constitución 644 Chillán - VIII Región	NA	(56)985375493
+laboratorio	Insulab LTDA.	Insumos Medicos	9 Oriente 1390 Talca - VII Región	www.insulablimitada.cl	(56)712233872
+laboratorio	Centro Médico y Dental Darsalud	Medicos	Vicuña Mackenna Poniente 7215 LA Florida - RM	www.darsalud.cl	(56)224130313
+laboratorio	Inmunomédica	Medicos Medicina General	San Martín 920 Concepción - VIII Región	www.inmunomedica.cl	(56)412108200
+laboratorio	Etha LTDA.	Insumos Medicos	Av Ñuble 569 SANTIAGO - RM	www.etha.cl	(56)989036408
+laboratorio	Clínica Veterinaria San Sebastián	Clinicas Veterinarias	Av. Prat 12 Quillota - V Región	www.clinicaveterinariasansebastianquillota.cl	(56)332350825
+laboratorio	Clínica Veterinaria Punto Mascota	Clinicas Veterinarias	Av Carl Ibáñez del C 3554 Viña del Mar - V Región	www.puntomascota.cl	(56)322869579
+laboratorio	Muebles Escolares Arcoíris Chile	Muebles Para Oficina	David Perry 0560 Temuco - IX Región	www.arcoirischile.cl	(56)452220205
+laboratorio	Clínica Dental Inmunodent	Dentistas Clinicas Dentales	Castellón 316 Concepción - VIII Región	www.inmunomedica.cl	(56)412108620
+laboratorio	Hamburgo Ingeniería S.A.	Ingenieros Constructores	Padre Alberto Hurtado 697 PEÑALOLÉN - RM	www.hamburgoingenieria.cl	(56)222928911
+laboratorio	Centro Médico San Jorge	Medicos Centros Medicos	Av. Lo Ovalle 1669 SAN Miguel - RM	NA	(56)942238570
+laboratorio	Rayocolor	Fotografias	Independencia 437 Local 2 Linares - VII Región	www.rayocolor.cl	(56)732212995
+laboratorio	Vasculares Asociados	Medicos Cirugia Vascular	Av. Salvador 95 Of. 510 PROVIDENCIA - RM	NA	(56)222097427
+laboratorio	Matricería y Plástica LTDA.	Envases De Plastico	Santiago Concha 1855 SANTIAGO - RM	NA	(56)225550848
+laboratorio	Agua Ley - Agua Destilada - Desmineralizada y Desionizada	Agua Destilada	Av Lo Ovalle 196 LA Granja - RM	www.agualey.cl	(56)222830482
+laboratorio	Veterinaria Puerta Sur	Clinicas Veterinarias	Capitán Avalos 6071 Puerto Montt - X Región	NA	(56)998151632
+laboratorio	Idu - Instituto Diagnóstico Urológico	Medicos Urologia	6 Norte 774 Viña del Mar - V Región	www.idu.cl	(56)322971850
+laboratorio	Clínica Veterinaria Requinoa	Clinicas Veterinarias	Pablo Rubio 267 Requinoa - VI Región	www.veterinariarequinoa.cl	(56)722551616
+laboratorio	Podología Clínica	Podologos	Av Salvador 149 PROVIDENCIA - RM	www.podologiaclinica.org	(56)987765310
+laboratorio	Laboratorio Clínico Automatizado Wallace	Laboratorios Clinicos	Av Ramón Pérez Opazo 3168 Alto Hospicio - I Región	www.facebook.com/laboratorio.clinico.wallace/	(56)572240623
+laboratorio	Abbylab S.A.	Laboratorios Clinicos	Av Nueva Providencia 1881 PROVIDENCIA - RM	NA	(56)229460778
+laboratorio	Laboratorio Dental Cerolab	Laboratorios Dentales	Av Providencia 2601 PROVIDENCIA - RM	NA	(56)223340956
+laboratorio	Laboratorio Dental Gallegos	Laboratorios Dentales	Av Colombia 9018 LA Florida - RM	NA	(56)222813065
+laboratorio	Valencia Villegas Juan Eduardo	Laboratorios Dentales	Enrique Mac-Iver 22 SANTIAGO - RM	NA	(56)226335697
+laboratorio	Arvilab LTDA.	Articulos Para Laboratorios	Pje Feijoa 9621 LA Florida - RM	NA	(56)222870175
+laboratorio	Centro Medico Luis Pasteur	Laboratorios Clinicos	Manuel Bulnes 688 Osorno - X Región	NA	(56)642235748
+laboratorio	Laboratorio Veterinario Rimat	Laboratorios Veterinarios	Ricardo Wagner 2199 LA Reina - RM	www.rimat.cl	(56)222772519
+laboratorio	Denacor	Muebles Para Laboratorios	Oscar Castro 3199 PUENTE Alto - RM	www.denacor.cl	(56)988182153
+laboratorio	Laboratorio Dental Blaitt	Laboratorios Dentales	Ps Huérfanos 786 SANTIAGO - RM	www.laboratorioblaitt.cl	(56)226331522
+laboratorio	Metalquim Ltda	Laboratorios Metalurgicos	José Besa 1507 QUINTA Normal - RM	www.metalquim.cl	(56)227734429
+laboratorio	Crisvert LTDA.	Articulos Para Laboratorios	San Dionisio 2295 SANTIAGO - RM	NA	(56)223779257
+laboratorio	Laboratorio Arensburg S.A.I.C.	Laboratorios De Cosmeticos	Los Limoneros 3777 MACUL - RM	www.arensburg.cl	(56)222722346
+laboratorio	Comercial a y B S.A.	Articulos Para Laboratorios	Dr. M. Barros Borg. 105 PROVIDENCIA - RM	www.comercialayb.cl	(56)222364031
+laboratorio	Laboratorio Mintlab Co S.A.	Laboratorios Farmaceuticos	Nueva Andrés Bello 1940 INDEPENDENCIA - RM	www.zonic.cl	(56)225624300
+laboratorio	Quimagro S.A	Laboratorios Veterinarios	Av Departamental 935 SAN Miguel - RM	www.quimagro.cl	(56)228384700
+laboratorio	Laboratorio Clinico Labotem	Laboratorios Clinicos	Av Manuel Rodríguez 429 Chiguayante - VIII Región	www.sinweb.cl	(56)412978302
+laboratorio	Veterinaria Ñielol	Articulos Para Laboratorios	Ministro Zenteno 392 Temuco - IX Región	www.veterinarianielol.cl	(56)452212202
+laboratorio	Laboratorio Clinico Augusto Valdes Romero	Laboratorios Clinicos	Lib. B. O'Higgins 595 Constitución - VII Región	NA	(56)712671338
+laboratorio	Dentista Enrique Becerra F.	Laboratorios Dentales	Ps Las Bellotas 199 PROVIDENCIA - RM	NA	(56)222326024
+laboratorio	Laboratorios Ximena Polanco	Laboratorios Farmaceuticos	Dresden 4640 SAN Miguel - RM	www.xpolanco.com	(56)225515336
+laboratorio	Laboratorio Dental Prodenar	Laboratorios Dentales	Astorga 38 Rancagua - VI Región	NA	(56)722230602
+laboratorio	Laboratorio Dental Humberto Barahona Araneda	Laboratorios Dentales	Freire 858 Concepción - VIII Región	NA	(56)412620358
+laboratorio	Laboratorio Dental Valdent	Laboratorios Dentales	14 Norte 571 Viña del Mar - V Región	NA	(56)322698843
+laboratorio	Iproming	Articulos Para Laboratorios	San Nicolás 667 SAN Miguel - RM	www.ipromingchile.cl	(56)225533495
+laboratorio	Laboratorio Clinico Pasteur LTDA.	Laboratorios Clinicos	José Joaquín Pérez 300 Calera - V Región	NA	(56)332222524
+laboratorio	Laboratorio Clinico y Centro Medico San Martin	Laboratorios Clinicos	Colón 330 Arica - XV Región	NA	(56)582232204
+laboratorio	Laboratorio Dental Gonzalo Cañete Valenzuela	Laboratorios Dentales	Av 1 Norte 461 Viña del Mar - V Región	www.laboratoriodentalgonzalocanete.cl	(56)322978849
+laboratorio	Laboratorio M y V	Laboratorios Dentales	Manuel Antonio Matta 595 Osorno - X Región	NA	(56)642243878
+laboratorio	Laboratorio Dental Mezdent	Laboratorios Dentales	Eugenio Gligo 0149 Punta Arenas - XII Región	www.mezdent.cl	(56)612214140
+laboratorio	Laboratorio Clinico Oscar Zuñiga	Laboratorios Clinicos	Urriola 680 Rengo - VI Región	NA	(56)722511429
+laboratorio	Bio Analisis Laboratorio Clinico	Laboratorios Clinicos	Av Arturo Prat 350 Temuco - IX Región	NA	(56)452239146
+laboratorio	Lab Service	Laboratorios Clinicos	Ignacio Valdivieso 2265 SAN Joaquín - RM	www.labservice.cl	(56)224480101
+laboratorio	Laboratorio Clinico Irma Esparza	Laboratorios Clinicos	Chacabuco 657 Linares - VII Región	www.clinicaesparza.cl	(56)732210633
+laboratorio	Laboratorio Dental Ernesto Silva	Laboratorios Dentales	Pje Juan López 569 Antofagasta - II Región	NA	(56)552251401
+laboratorio	Clary	Laboratorios Dentales	Av Independencia 1725 Valparaíso - V Región	www.mariaclara.cl	(56)322212848
+laboratorio	Servident	Laboratorios Dentales	Argomedo 503 Curicó - VII Región	NA	(56)752316529
+laboratorio	Laboratorio Clinico Carrera	Laboratorios Clinicos	B. Vicuña Mackenna 874 Quilpué - V Región	NA	(56)322914966
+laboratorio	Laboratorio Dental Ceramic-Dent	Laboratorios Dentales	Constitución 664 Chillán - VIII Región	www.gexachile.cl	(56)422212808
+laboratorio	Laboratorio Alvarez	Laboratorios Dentales	Lib. B. O'Higgins 827 Osorno - X Región	NA	(56)642237265
+laboratorio	Laboratorio Anatomia Patologica Dr. Claudio Cruzat	Laboratorios Clinicos	1 Norte 963 Talca - VII Región	NA	(56)712211073
+laboratorio	Probet	Articulos Para Laboratorios	9½ Oriente 49 Talca - VII Región	NA	(56)712237742
+laboratorio	Martinez Vega Renato Andres	Laboratorios Dentales	Caupolicán 567 Concepción - VIII Región	NA	(56)412233169
+laboratorio	Protesis Fija y Esteticos Jean Pierre Tapia Palma	Laboratorios Dentales	Serrano 548 Concepción - VIII Región	NA	(56)986621624
+laboratorio	Laboratorio Clinico Tecnoanalisis	Laboratorios Clinicos	I. Carrera Pinto 275 Parral - VII Región	NA	(56)732464338
+laboratorio	Manuel Ly	Laboratorios Dentales	Huanchaca 334 Antofagasta - II Región	NA	(56)552221518
+laboratorio	Laboratorio Dental Jorge Corral Canales	Laboratorios Dentales	Ruiz 143 Viña del Mar - V Región	www.pro-dental.cl	(56)322471629
+laboratorio	Laboratorio Dental Sergio Vasquez	Laboratorios Dentales	Cnel. Stgo. Bueras 359 Rancagua - VI Región	NA	(56)722227048
+laboratorio	Laboratorio Clinico Dra. Gloria Canovas y CIA.	Laboratorios Clinicos	Eduardo de la Barra 260 La Serena - IV Región	NA	(56)512225236
+laboratorio	Laboratorio Dental Quimey	Laboratorios Dentales	San Martín 758 Concepción - VIII Región	NA	(56)969185697
+laboratorio	Cimm Centro de Investigacion Minera y Metalurgica	Laboratorios Metalurgicos	Av Parque Antonio Rabat 6500 VITACURA - RM	www.cimm-tys.cl	(56)222427816
+laboratorio	Iema Instituto de Estudios Medicos Avanzados	Laboratorios Clinicos	Av Rancagua 835 PROVIDENCIA - RM	www.iema.cl	(56)222257928
+laboratorio	Laboratorio Clinico Iquilab	Laboratorios Clinicos	Obispo Labbé 800 Iquique - I Región	NA	(56)572391242
+laboratorio	Prodelab LTDA.	Articulos Para Laboratorios	Galvarino 615 Concepción - VIII Región	www.prodelab.cl	(56)412936635
+laboratorio	Laboratorio Clinico de Salud Integral Limitada	Laboratorios Clinicos	Antonio Bellet 77 PROVIDENCIA - RM	NA	(56)222640719
+laboratorio	Laboratorio Clinico y Hematologico Fleming LTDA.	Laboratorios Clinicos	Benavente 840 Puerto Montt - X Región	NA	(56)652267399
+laboratorio	Laboratorio Rovic	Laboratorios De Cosmeticos	Williams Rebolledo 1930 ÑUÑOA - RM	www.laboratoriorovic.cl	(56)223620576
+laboratorio	Laboratorio Clinico Meditest Dra. Reineria Hermosilla	Laboratorios Clinicos	Benavente 840 Puerto Montt - X Región	NA	(56)652310165
+laboratorio	Laboratorio y Banco de Sangre	Laboratorios Clinicos	Víctor Manuel 1435 SANTIAGO - RM	NA	(56)225545142
+laboratorio	Laboratorio Clinico Biogenesis LTDA.	Laboratorios Clinicos	Orella 769 Iquique - I Región	www.biogenesis.cl	(56)572418759
+laboratorio	Laboratorio Clinico Multimedica	Laboratorios Clinicos	Llano Subercaseaux 4005 SAN Miguel - RM	NA	(56)225514611
+laboratorio	Biomolecular	Laboratorios Clinicos	2 Norte 641 Talca - VII Región	NA	(56)712212040
+laboratorio	Perkinelmer	Equipos Para Laboratorios	Av Antonio Varas 671 PROVIDENCIA - RM	www.perkinelmer.cl	(56)227847500
+laboratorio	Arvident	Laboratorios Dentales	Lincoyán 71 Concepción - VIII Región	www.arvident.cl	(56)412914608
+laboratorio	Laboratorio Folch LTDA.	Laboratorios Clinicos	18 de Septiembre 860 Chillán - VIII Región	www.laboratoriofolch.cl	(56)422223377
+laboratorio	Ginobs LTDA.	Laboratorios Clinicos	Av Manquehue Norte 1407 VITACURA - RM	NA	(56)222019661
+laboratorio	Labtech Hebro Limitada	Equipos Para Laboratorios	Paula Jaraquemada 1553 RENCA - RM	www.labtechhebro.cl	(56)222071719
+laboratorio	Genesys Chile LTDA.	Equipos Para Laboratorios	Av José Domingo Cañas 570 ÑUÑOA - RM	www.genesyschile.cl	(56)222690360
+laboratorio	Laboratorio Dental Leandro Parra O.	Laboratorios Dentales	Av Gran Av.José Miguel Carrera 6477 LA Cisterna - RM	www.laboratoriolapaossa.cl	(56)225172773
+laboratorio	Inmunomedica	Laboratorios Clinicos	Caupolicán 201 Los Angeles - VIII Región	www.inmunomedica.cl	(56)412466200
+laboratorio	Silob	Laboratorios Clinicos	Benavente 315 Puerto Montt - X Región	www.silobchile.cl	(56)652260277
+laboratorio	Laboratorio Clinico Galeno	Laboratorios Clinicos	Coquimbo 712 Antofagasta - II Región	NA	(56)552288915
+laboratorio	Laboratorio Clinico los Olivos	Laboratorios Clinicos	Borgoño 409 Coquimbo - IV Región	www.lablosolivos.cl	(56)512321214
+laboratorio	Tcl LTDA.	Articulos Para Laboratorios	José Manuel Borgoño 2736 RENCA - RM	www.tclonline.cl	(56)226418465
+laboratorio	Laboratorio Clinico Schwerter	Laboratorios Clinicos	Colo-Colo 235 Concepción - VIII Región	NA	(56)412621268
+laboratorio	Edemet LTDA.	Equipos Para Laboratorios	Lautaro 2062 Concepción - VIII Región	www.edemet.cl	(56)412992112
+laboratorio	Sociedad Distribuidora de Productos de Laboratorio Indulab	Articulos Para Laboratorios	Las Begonias 0898 LA Granja - RM	www.indulab.cl	(56)225169410
+laboratorio	Laboratorio Dentomedico Eirl	Laboratorios Dentales	Max Jara 361 Linares - VII Región	NA	(56)732218584
+laboratorio	Laboratorio Clinico Playa Brava	Laboratorios Clinicos	Av José Francisco Vergara 3327 Iquique - I Región	NA	(56)572393544
+laboratorio	Laboratorio Clinico Biomaas	Laboratorios Clinicos	Av Manuel Rodríguez 941 San Fernando - VI Región	NA	(56)722715450
+laboratorio	Laboratorio Clinico Laboclin	Laboratorios Clinicos	Clarencia 877 Concón - V Región	NA	(56)323243543
+laboratorio	Laboratorio Clinico Cauquenes	Laboratorios Clinicos	Claudina Urrutia 241 Cauquenes - VII Región	NA	(56)732512404
+laboratorio	Laboratorio Clinico Lantadilla	Laboratorios Clinicos	Av Freire 560 Rancagua - VI Región	www.lantadilla.cl	(56)722241160
+laboratorio	Laboratorio Ximena Gonzalez LTDA.	Laboratorios Clinicos	2 Poniente 1380 Talca - VII Región	NA	(56)712220185
+laboratorio	Laboratorio de Histologia y Citopatologico	Laboratorios Clinicos	Beaucheff 768 Valdivia - XIV Región	www.histoval.cl	(56)632228550
+laboratorio	Servicios Anatomopatologicos LTDA.	Laboratorios Clinicos	Esmeralda 1807 Antofagasta - II Región	NA	(56)552265348
+laboratorio	Laboratorios Dentales Juan Carlos Cortes	Laboratorios Dentales	Av Balmaceda 552 PEÑAFLOR - RM	NA	(56)228149006
+laboratorio	Laboratorio Clinico Veterinario los Muermos	Laboratorios Clinicos	Manuel Montt 29 Los Muermos - X Región	NA	(56)652211811
+laboratorio	Laboratorio Clinico San Carlos Limitada	Laboratorios Clinicos	Brasil 362 San Carlos - VIII Región	NA	(56)422411695
+laboratorio	Laboratorio Marticorena Ltda	Laboratorios Clinicos	Vicuña Mackenna 520 Temuco - IX Región	NA	(56)452214040
+laboratorio	Soc Comercial Arte Foto Limitada	Laboratorios Fotograficos	Manuel Rodríguez 980 Temuco - IX Región	NA	(56)452952178
+laboratorio	Patricio Ivan Barrales Riquelme	Laboratorios Dentales	Ministro Zenteno 274 Temuco - IX Región	NA	(56)452329356
+laboratorio	Laboratorio Dental Sur	Laboratorios Dentales	Pje Castilla 745 Temuco - IX Región	NA	(56)452232702
+laboratorio	Sociedad Genetica Aplicada	Laboratorios Clinicos	Purísima 780 Puerto Varas - X Región	NA	(56)652233965
+laboratorio	Suranalisis LTDA.	Laboratorios Clinicos	Comercio 766 Río Bueno - XIV Región	NA	(56)642341670
+laboratorio	Soc Laboratorio Clinico Austral Ltda	Laboratorios Clinicos	Av Arturo Prat 455 La Unión - XIV Región	NA	(56)642323055
+laboratorio	Laboratorios Recalcine Area Veterinaria	Laboratorios Veterinarios	Aníbal Pinto 200 Puerto Montt - X Región	www.recalcine.cl	(56)652434325
+laboratorio	Muebles para Laboratorios	Muebles Para Laboratorios	Obpo. M. Umaña S. 1201 ESTACIÓN Central - RM	www.mueblesparalaboratorio.cl	(56)979291960
+laboratorio	Laboratorios Recalcine S.A.	Laboratorios Farmaceuticos	14 Norte 571 Viña del Mar - V Región	NA	(56)322687236
+laboratorio	Laboratorio Dental Francesetti Limitada	Laboratorios Dentales	Pedro Pablo Muñoz 831 La Serena - IV Región	www.celadent.cl	(56)512214963
+laboratorio	Laboratorios Wyeth Inc	Laboratorios Veterinarios	Av del Mar 4780 La Serena - IV Región	NA	(56)224635600
+laboratorio	Laboratorio Clinico del Lago	Laboratorios Clinicos	Camilo Henríquez 280 Villarrica - IX Región	www.lablago.cl	(56)452419914
+laboratorio	Hevisa LTDA.	Equipos Para Laboratorios	Volcán Lanín 452 PUDAHUEL - RM	www.hevisa.cl	(56)229493368
+laboratorio	Tecnarome	Laboratorios Clinicos	Ramón Freire 0 SANTIAGO - RM	NA	(56)223772940
+laboratorio	Protdental	Laboratorios Dentales	San Alberto 1693 PUENTE Alto - RM	NA	(56)994776700
+laboratorio	Laboratorio Clínico Elmo	Laboratorios Clinicos	Vivar 1229 Iquique - I Región	NA	(56)572418213
+laboratorio	Laboratorio Dental Portocarrero	Laboratorios Dentales	San Martín 555 Arica - XV Región	NA	(56)976722035
+laboratorio	Laboratorio Clínico Chungará Ltda	Laboratorios Clinicos	18 de Septiembre 1315 Arica - XV Región	NA	(56)582252172
+laboratorio	Laboratorio Dental Briceño Huidobro	Laboratorios Dentales	Vivar 1271 Iquique - I Región	NA	(56)572471864
+laboratorio	Laboratorio Dental Eduardo Llanos	Laboratorios Dentales	Cobija 2054 Calama - II Región	NA	(56)552313247
+laboratorio	Laboratorio Dental	Laboratorios Dentales	Claudio Vicuña 786 Quilpué - V Región	NA	(56)322722456
+laboratorio	Laboratorio Dental Fernandez Alvarez	Laboratorios Dentales	Molina 478 Valparaíso - V Región	NA	(56)322218008
+laboratorio	Laboratorio Dental Agustin Contreras	Laboratorios Dentales	Av Independencia 1725 Valparaíso - V Región	NA	(56)322251940
+laboratorio	Sociedad Maria Alexia Valck Matthei y CIA.	Laboratorios Clinicos	Arlegui 440 Viña del Mar - V Región	NA	(56)322714224
+laboratorio	Laboratorio Clinico Bio Centro	Laboratorios Clinicos	Lib. B. O'Higgins 510 Los Andes - V Región	www.bio-centro.cl	(56)342408018
+laboratorio	Laboratorio Medico Scheihing y Vargas Limitada	Laboratorios Clinicos	Maipú 40 Quillota - V Región	NA	(56)332316166
+laboratorio	Quimis	Articulos Para Laboratorios	Av San Rafael 77 San Felipe - V Región	www.quimis.cl	(56)342530425
+laboratorio	Laboratorio Dental Quilpue	Laboratorios Dentales	Av Antiguo Marga Marga 1449 Quilpué - V Región	www.labquilpue.cl	(56)322915949
+laboratorio	Soc de Servicios Dentales Limitada	Laboratorios Dentales	Pje La Paz 1368 Viña del Mar - V Región	NA	(56)322680558
+laboratorio	Laboratorio Clinico y Medicos Llolleo Ltda	Laboratorios Clinicos	Inmaculada Concep. 216 San Antonio - V Región	NA	(56)352281388
+laboratorio	Badar	Laboratorios Clinicos	Sexta 0355 Villa Alemana - V Región	NA	(56)322723781
+laboratorio	Prodent	Laboratorios Dentales	Av Ramón Freire 540 Quillota - V Región	NA	(56)332267992
+laboratorio	Cataldo Correa Eduardo Alberto	Laboratorios Dentales	Pje Roble 1575 Calera - V Región	NA	(56)332225965
+laboratorio	Medonuclear LTDA.	Laboratorios Clinicos	Av Recoleta 901 RECOLETA - RM	NA	(56)227775557
+laboratorio	Gonzalez Moran Carlos Freddy	Laboratorios Dentales	1 Oriente 252 Viña del Mar - V Región	NA	(56)322689927
+laboratorio	Cruz Roja Chilena	Laboratorios Clinicos	Barros Arana 1499 Concepción - VIII Región	NA	(56)412218756
+laboratorio	Proartelab Laboratorio Dental	Laboratorios Dentales	Del Inca 4446 LAS Condes - RM	www.proartelab.cl	(56)227310100
+laboratorio	Laboratorio Dental Redel	Laboratorios Dentales	Av Monseñor Félix Cabrera 59 PROVIDENCIA - RM	www.laboratoriodentalredel.cl	(56)223351045
+laboratorio	Laboratorio Dental Luis Herrera	Laboratorios Dentales	Av Parque Isabel Riquelme 632 SAN Joaquín - RM	NA	(56)225557346
+laboratorio	Laboratorio Clinico Bioclin	Laboratorios Clinicos	Av Brasil 744 Chillán - VIII Región	NA	(56)422240387
+laboratorio	Laboratorio Dental Asthetik S.A	Laboratorios Dentales	Caupolicán 104 Los Angeles - VIII Región	NA	(56)432326609
+laboratorio	Sociedad Medica y de Laboratorio Ltda.	Laboratorios Clinicos	Gómez Carreño 3785 Talcahuano - VIII Región	NA	(56)412851371
+laboratorio	Laboratorio Dental Perez Laborde	Laboratorios Dentales	Madreselvas 4630 MACUL - RM	NA	(56)227524522
+laboratorio	Laboratorio Lagovet	Laboratorios Veterinarios	Doctor Geissler 698 Puerto Varas - X Región	NA	(56)652234036
+laboratorio	Laboratorio Winlop	Laboratorios Clinicos	Pío Nono 430 Puerto Varas - X Región	NA	(56)652346474
+laboratorio	Amilab	Articulos Para Laboratorios	Enrique Olivares 1070 LA Florida - RM	www.amilab.cl	(56)222878678
+laboratorio	Pharmavita S.A.	Laboratorios Farmaceuticos	Nueva Los Leones 07 PROVIDENCIA - RM	www.pharmavita.cl	(56)223331695
+laboratorio	Ulloa Valdivia y CIA. LTDA.	Laboratorios Clinicos	Av Valparaíso 507 Viña del Mar - V Región	www.horaciovaldivia.serviciosmedicos.cl	(56)322684597
+laboratorio	Metrolab	Equipos Para Laboratorios	Guardia Vieja 12 PROVIDENCIA - RM	www.metrolab.cl	(56)222336414
+laboratorio	Laboratorio Clinico Armando Alvarez	Laboratorios Clinicos	Pte. G. Gonz. Videla 790 La Serena - IV Región	NA	(56)512212903
+laboratorio	Laboratorio Clinico Union Ltda	Laboratorios Clinicos	Cayetano Letelier 225 La Unión - XIV Región	NA	(56)642426044
+laboratorio	Laboratorio Clinico Clinilab Limitada	Laboratorios Clinicos	General Velásquez 1285 Antofagasta - II Región	www.clinilab.cl	(56)552383063
+laboratorio	Centro Medico Emsa	Laboratorios Clinicos	San Martín 1350 Concepción - VIII Región	NA	(56)412290100
+laboratorio	Buchert Rosas y Compania Ltda	Articulos Para Laboratorios	Abate Molina 528 SANTIAGO - RM	www.buchert-rosas.com	(56)226898420
+laboratorio	Laboratorio Clinico Medicina Nuclear	Laboratorios Clinicos	Pérez Valenzuela 1551 PROVIDENCIA - RM	www.lmn.cl	(56)222350033
+laboratorio	Doctor'S Lab	Laboratorios Clinicos	Carlos Condell 2782 Antofagasta - II Región	NA	(56)552225114
+laboratorio	Laboratorio de Bioan Alisis Clinico	Laboratorios Clinicos	Miguel Aguirre 280 Ovalle - IV Región	NA	(56)532625876
+laboratorio	Dimet LTDA.	Laboratorios Clinicos	DIAG. P. A. C. 1075 Concepción - VIII Región	NA	(56)412911686
+laboratorio	Laboratorio Clinico Garcia Rosado	Laboratorios Clinicos	Pudeto 238 Quillota - V Región	www.labgarcia.cl	(56)332310308
+laboratorio	Laboratorio Roman Diaz	Laboratorios Clinicos	Julio Prado 1950 ÑUÑOA - RM	www.laboratorioclinico.cl	(56)222047755
+laboratorio	Laboratorio Ceran	Laboratorios Clinicos	Manuel Antonio Matta 1839 Antofagasta - II Región	NA	(56)552221020
+laboratorio	Farmacia Weleda	Laboratorios Farmaceuticos	Evaristo Lillo 78 LAS Condes - RM	www.weleda.cl	(56)222402700
+laboratorio	Laboratorio Clinico	Laboratorios Clinicos	Carrera 1187 Calera - V Región	NA	(56)332222855
+laboratorio	Baxter de Chile LTDA.	Laboratorios Farmaceuticos	Av México 715 RECOLETA - RM	www.baxter.cl	(56)226202100
+laboratorio	Del-Carpio Bolivar Leonardo	Equipos Para Laboratorios	Sucre 2596 ÑUÑOA - RM	www.delcarpio.cl	(56)222691348
+laboratorio	Laboratorio Clinico Cendimed	Laboratorios Clinicos	Lib. B. O'Higgins 500 Osorno - X Región	www.laboratoriocendimed.cl	(56)642245600
+laboratorio	Laboratorio Clinico Arauco LTDA.	Laboratorios Clinicos	Ramírez 1246 Iquique - I Región	www.labclinicoarauco.cl	(56)572415240
+laboratorio	Laboratorio Clinico Vega y Compania Limitada	Laboratorios Clinicos	Colo-Colo 497 Los Angeles - VIII Región	NA	(56)432313975
+laboratorio	Sanibel S.A.	Laboratorios De Cosmeticos	Los Canteros 8511 LA Reina - RM	www.sanibel.cl	(56)222732727
+laboratorio	Labotec	Laboratorios Clinicos	Av Argentina 2924 Antofagasta - II Región	www.labotec.cl	(56)552551625
+laboratorio	Laboratorio Equilibrio	Laboratorios De Cosmeticos	M. Antonio Tocornal 2375 SAN Joaquín - RM	NA	(56)225564727
+laboratorio	Centro Diagnostico H Istopatologia	Laboratorios Clinicos	Dinamarca 621 Temuco - IX Región	NA	(56)452264909
+laboratorio	Laboratorio Clinico Nexus	Laboratorios Clinicos	Av Arturo Prat 350 Temuco - IX Región	NA	(56)452272927
+laboratorio	Laboratorio Dental Avendaño Arangua	Laboratorios Dentales	Eulogia Sánchez 045 PROVIDENCIA - RM	www.avendanoarangua.cl	(56)226354270
+laboratorio	Labotartio Labisur	Laboratorios Clinicos	Senador Estebanez 645 Temuco - IX Región	NA	(56)452243969
+laboratorio	Laboratorio Clinico Coloma	Laboratorios Clinicos	Quechereguas 760 San Fernando - VI Región	NA	(56)722712782
+laboratorio	Laboratorio de Anatomia Patologica	Laboratorios Clinicos	Merced 565 San Felipe - V Región	NA	(56)342518501
+laboratorio	Hanna Instruments	Equipos Para Laboratorios	Lo Echevers 0 PUDAHUEL - RM	www.hannachile.com	(56)228625700
+laboratorio	Laboratorio Dental Miguel Pepe	Laboratorios Dentales	Av Providencia 2019 PROVIDENCIA - RM	www.miguelpepe.cl	(56)223345324
+laboratorio	Laboratorio Clinico Villarrica	Laboratorios Clinicos	Valentín Letelier 815 Villarrica - IX Región	NA	(56)452412736
+laboratorio	Laboratorio Clinico Dr. G. Mejia	Laboratorios Clinicos	Estado 47 Rancagua - VI Región	www.null.cl	(56)722239792
+laboratorio	Galenica	Equipos Para Laboratorios	Av Apoquindo 6314 LAS Condes - RM	www.galenica.cl	(56)227992900
+laboratorio	Instrumentos Cientificos Melvyn Becerra	Equipos Para Laboratorios	Doctor Torres Boonen 834 PROVIDENCIA - RM	www.melvynbecerra.cl	(56)222093492
+laboratorio	Agrolab LTDA.	Laboratorios De Suelos	Av José Domingo Cañas 2914 ÑUÑOA - RM	www.agrolab.cl	(56)222258087
+laboratorio	American Dental Art	Laboratorios Dentales	Benjamín 2945 LAS Condes - RM	www.dentalart.cl	(56)222327520
+laboratorio	Laboratorio de Especialidades Medicas Lt	Laboratorios Clinicos	Bellavista 123 Puerto Montt - X Región	www.clinandes.cl	(56)652289120
+laboratorio	Tecnimed LTDA.	Laboratorios Clinicos	Colo-Colo 357 Concepción - VIII Región	www.tecnimed.cl	(56)412628800
+laboratorio	Laboratorio Clinico Dr Raul Campos y Compania	Laboratorios Clinicos	Lincoyán 186 Concepción - VIII Región	NA	(56)412223764
+laboratorio	Laboratorio Valma	Laboratorios Farmaceuticos	Miguel de Atero 2883 QUINTA Normal - RM	www.mielax.cl	(56)227739572
+laboratorio	Laboratorio Drag Pharma Chile	Laboratorios Veterinarios	Lautaro 300 QUILICURA - RM	www.dragpharma.cl	(56)226526000
+laboratorio	Laboratorio Hudson S.A.	Laboratorios De Cosmeticos	Río Palena 9670 PUDAHUEL - RM	www.laboratoriohudson.cl	(56)229527714
+laboratorio	Laboratorios Wyeth Inc	Laboratorios Farmaceuticos	Obpo. A. Espinoza C. 2526 MACUL - RM	www.wyeth.com	(56)224635600
+laboratorio	Veterquimica S.A.	Laboratorios Veterinarios	Bernardino 1986 Puerto Montt - X Región	www.veterquimica.cl	(56)652437994
+laboratorio	Labymed	Articulos Para Laboratorios	Pje Agustín Gacitúa 0281 MAIPÚ - RM	www.caja18.cl	(56)224015937
+laboratorio	Dilaco Ltda	Articulos Para Laboratorios	Pérez Valenzuela 1138 PROVIDENCIA - RM	www.dilaco.com	(56)224029700
+laboratorio	Distribuidora Furet	Articulos Para Laboratorios	Av Collín 360 Chillán - VIII Región	www.furet.cl	(56)422423646
+laboratorio	Laboratorio Clinico Biolab	Laboratorios Clinicos	18 de Septiembre 310 Chillán - VIII Región	NA	(56)422211670
+laboratorio	Laboratorios Alcon Chile	Laboratorios Farmaceuticos	Av Los Leones 1459 PROVIDENCIA - RM	www.alconlabs.com	(56)224106400
+laboratorio	Diagnotest	Laboratorios Clinicos	Arturo Gallo 455 Arica - XV Región	NA	(56)582252959
+laboratorio	Distribuidora de Articulos Medicos Perez Limitada	Vidrios Para Laboratorios	José Miguel Carrera 555 SANTIAGO - RM	www.perezltda.cl	(56)226717467
+laboratorio	Laboratorios Dental  Gabriel Barraza	Laboratorios Dentales	Pje Protección Mutua de Chile 897 SANTIAGO - RM	NA	(56)226873233
+laboratorio	Club Color	Laboratorios Fotograficos	San Antonio 423 SANTIAGO - RM	NA	(56)226321038
+laboratorio	Laboratorio Dental Ortiz	Laboratorios Dentales	Moneda 1542 SANTIAGO - RM	NA	(56)226952325
+laboratorio	Laboratorio Dentales Carlos Melendez	Laboratorios Dentales	Av Américo Vespucio Sur 107 LAS Condes - RM	NA	(56)222283405
+laboratorio	Laboratorio Clinico Chiloe	Laboratorios Clinicos	Ramón Freire 759 Castro - X Región	NA	(56)652636686
+laboratorio	Diagnosur	Laboratorios Clinicos	Ramón Freire 480 Quellón - X Región	NA	(56)652682289
+laboratorio	Clinica Dental Den  Center	Laboratorios Dentales	8 Oriente 1318 Talca - VII Región	NA	(56)712716121
+laboratorio	Tecnica Dental	Laboratorios Dentales	Italia 735 San Fernando - VI Región	NA	(56)722711505
+laboratorio	Laboratorio Sonrident	Laboratorios Dentales	1 y 2 de Octubre 550 Rancagua - VI Región	NA	(56)722241188
+laboratorio	Inspelab LTDA.	Laboratorios De Suelos	Cueto 790 SANTIAGO - RM	NA	(56)722265300
+laboratorio	Clinigen	Laboratorios Clinicos	Alonso de Ovalle 679 SANTIAGO - RM	NA	(56)226383071
+laboratorio	Clinimed LTDA.	Laboratorios Clinicos	Manuel Rodríguez 483 Copiapó - III Región	www.clinimed.cl	(56)522217543
+laboratorio	Laboratorio Siac	Laboratorios Clinicos	Vallejos 535 Copiapó - III Región	www.laboratoriosiac.tk	(56)522535383
+laboratorio	Centro Medico Aracauria	Laboratorios Dentales	Lautaro 20 Angol - IX Región	NA	(56)452711858
+laboratorio	Laboratorio Thomas	Laboratorios Clinicos	Carlos Condell 228 Coyhaique - XI Región	NA	(56)672210051
+laboratorio	Leonardo Arellano Hamelin y Compania Limitada	Laboratorios Clinicos	Av Salvador 130 PROVIDENCIA - RM	NA	(56)222237319
+laboratorio	Osorio Olmedo Cristian Marcelo	Laboratorios Dentales	Valentín Letelier 1336 SANTIAGO - RM	NA	(56)226959787
+laboratorio	Laboratorio Dental Chilodent	Laboratorios Dentales	Yungay 270 Ancud - X Región	NA	(56)652620241
+laboratorio	Soc de Profesionales Pisano y Onetto Limitada	Laboratorios Clinicos	Pérez Valenzuela 1572 PROVIDENCIA - RM	NA	(56)222358066
+laboratorio	Laboratorio Radiolab	Laboratorios Clinicos	14 de Febrero 1985 Antofagasta - II Región	NA	(56)552226384
+laboratorio	Acme Labs	Laboratorios De Suelos	Claudio Arrau 7152 PUDAHUEL - RM	www.acmelab.com	(56)226164600
+laboratorio	Biovac S.A.	Laboratorios Veterinarios	Francisco Bilbao 263 Puerto Montt - X Región	NA	(56)652435759
+laboratorio	Centro de Diagnostico Biolab	Laboratorios Clinicos	Ortúzar 496 MELIPILLA - RM	NA	(56)228316771
+laboratorio	Soc Laboratorio Clinico Citopatologico Ltda	Laboratorios Clinicos	Av Providencia 2601 PROVIDENCIA - RM	NA	(56)222332398
+laboratorio	Laboratorio Dental Hernan Villablanca S.	Laboratorios Dentales	Av Gran Av.José Miguel Carrera 8222 LA Cisterna - RM	NA	(56)225580179
+laboratorio	Imagro	Laboratorios Veterinarios	V. Pérez Rosales 1308 LA Reina - RM	www.imagro.cl	(56)222271302
+laboratorio	Laboratorio Dental Maximo Martinez Oliva	Laboratorios Dentales	Ps Estado 25 SANTIAGO - RM	NA	(56)226640531
+laboratorio	Para Mi Bebe	Laboratorios De Cosmeticos	San Isidro 1876 SANTIAGO - RM	www.paramibebe.com	(56)225512649
+laboratorio	Inmunoflu	Laboratorios Clinicos	Pudeto 293 Quillota - V Región	NA	(56)332310371
+laboratorio	Juan y Gerardo Heyn y Compania Ltda	Articulos Para Laboratorios	Dardignac 239 RECOLETA - RM	NA	(56)227327234
+laboratorio	Genetica y Tecnologi a LTDA.	Laboratorios Clinicos	Cnel. Stgo. Bueras 160 SANTIAGO - RM	NA	(56)226390399
+laboratorio	Interlab	Equipos Para Laboratorios	Av Irarrázaval 2821 ÑUÑOA - RM	www.interlab.cl	(56)222698583
+laboratorio	Histonor	Laboratorios Clinicos	Av Argentina 1609 Antofagasta - II Región	www.monteswines.com	(56)552556512
+laboratorio	Laboratorio Isdin Chile Ltda	Laboratorios Farmaceuticos	Av Luis Thayer Ojeda 166 PROVIDENCIA - RM	www.isdin.cl	(56)222442526
+laboratorio	Sociedad Servicios Odontologicos y Laboratorio Den	Laboratorios Dentales	San Pío X 2460 PROVIDENCIA - RM	www.piox.cl	(56)222326027
+laboratorio	Labotorio Dental Sur	Laboratorios Dentales	Barros Arana 04113 Temuco - IX Región	NA	(56)992606720
+laboratorio	Tenco Dental	Laboratorios Dentales	Estoril 120 LAS Condes - RM	www.lab.altoestoril.cl	(56)222475539
+laboratorio	Laboratorio Dental Lisden	Laboratorios Dentales	Nueva 2 1459 PEÑALOLÉN - RM	NA	(56)229345484
+laboratorio	Francoservicios Ltda	Laboratorios Clinicos	Serrano 1150 Vallenar - III Región	www.labclinicodelhuasco.cl	(56)512544316
+laboratorio	Libreria Genesis	Equipos Para Laboratorios	Av 21 de Mayo 0 PEÑAFLOR - RM	www.libreriagenesis.cl	(56)228125861
+laboratorio	Dentalis	Laboratorios Dentales	Pje Chipana Los Andes - V Región	NA	(56)323182346
+laboratorio	Laboratorio Dental Cp	Laboratorios Dentales	Av Larraín Alcalde 875 La Serena - IV Región	www.laboratoriodentalcp.cl	(56)512271609
+laboratorio	Ciber	Equipos Para Laboratorios	Av Colón 0625 Puerto Varas - X Región	www.cibermas.cl	(56)976457711
+laboratorio	Ventas Varias	Equipos Para Laboratorios	Pje Cabo Froward 1581 PUENTE Alto - RM	www.dventaspuentealto.cl	(56)228661273
+laboratorio	Laboratorio Clinico Valparaiso	Laboratorios Clinicos	Caupolicán 958 Quilpué - V Región	NA	(56)322539905
+laboratorio	Laboratorio Ucm Limitada	Laboratorios Enologicos	R 5 Sur 0 Molina - VII Región	NA	(56)752491298
+laboratorio	Clinilab	Laboratorios Clinicos	Lib. B. O'Higgins 185 Rengo - VI Región	NA	(56)722514961
+laboratorio	Francisden	Laboratorios Dentales	Catamarca 1680 QUINTA Normal - RM	www.francisbascuñan.cl	(56)228665952
+laboratorio	Instituto Bioquimico Beta S.A.	Laboratorios Farmaceuticos	Av Las Américas 580 CERRILLOS - RM	NA	(56)224634100
+laboratorio	Laboratorio Dental Mp	Laboratorios Dentales	Colo-Colo 293 Chiguayante - VIII Región	NA	(56)412953630
+laboratorio	Mescuelo	Laboratorios De Suelos	San Luis 6957 LA Cisterna - RM	WWW.MECSUELO.CL	(56)225227556
+laboratorio	Reaclab Company LTDA.	Equipos Para Laboratorios	Pje Samaritano 4 1041 MAIPÚ - RM	NA	(56)228485683
+laboratorio	Sigma-Aldrich Quimica	Equipos Para Laboratorios	Av Nueva Providencia 1945 PROVIDENCIA - RM	WWW.SIGMAALDRICH.COM	(56)224957395
+laboratorio	Tecnologia e Instrumentacion Dertec Limitada	Equipos Para Laboratorios	Andrés de Fuenzalida 22 PROVIDENCIA - RM	WWW.DERTEC.CL	(56)229332886
+laboratorio	Laboratorio Clinico Santa Marta	Laboratorios Clinicos	Villota 348 Curicó - VII Región	NA	(56)752222641
+laboratorio	Nicolas Eduardo Cerda Labarca	Laboratorios Dentales	Cerro Colorado 5030 LAS Condes - RM	www.odontotecnia.cl	(56)222029008
+laboratorio	Distribuidora Margarita Morales Freire	Articulos Para Laboratorios	Almte. J. J. Latorre 2357 Antofagasta - II Región	www.margaritamorales.com	(56)552590821
+laboratorio	Laboratorio Clinico Plaza Valfu Salud	Laboratorios Clinicos	Monumento 2032 MAIPÚ - RM	NA	(56)229199387
+laboratorio	Dentomedi S.A.	Laboratorios Dentales	Benavente 531 Puerto Montt - X Región	NA	(56)652344449
+laboratorio	Sepulveda & Morales Limitada	Laboratorios Clinicos	Pje José Arrieta 9717 PEÑALOLÉN - RM	NA	(56)992338726
+laboratorio	Biogenetics	Laboratorios Clinicos	Av Manquehue Sur 520 LAS Condes - RM	www.biogenetics.cl	(56)222460426
+laboratorio	Servicios Salud Integral Guzman LTDA.	Laboratorios Dentales	Av Diego Silva Henríquez 1797 CONCHALÍ - RM	NA	(56)227366933
+laboratorio	Dentalab	Laboratorios Dentales	San Martín 1415 Concepción - VIII Región	NA	(56)412749059
+laboratorio	Asesorias y Servicios Odontologicos Novodental S.A.	Laboratorios Dentales	Hernando de Aguirre 128 PROVIDENCIA - RM	NA	(56)222343815
+laboratorio	Laboratorio Troncoso	Laboratorios Clinicos	Pedro Lagos 1090 Iquique - I Región	www.laboratoriotroncoso.cl	(56)572417937
+laboratorio	Laboratorio Labcconte	Laboratorios De Cosmeticos	Barros Arana 1375 Concepción - VIII Región	www.labcconte.cl	(56)412224699
+laboratorio	Laboratorio Dental Concepcion	Laboratorios Dentales	San Martín 1415 Concepción - VIII Región	www.laboratoriodentalconcepcion.cl	(56)412650748
+laboratorio	Fernandez Rivera Ana Maria	Articulos Para Laboratorios	Zapallar 217 Arica - XV Región	NA	(56)582254165
+laboratorio	Bronor LTDA.	Laboratorios Bromatologicos	Pje Maximiliano Poblete 596 Antofagasta - II Región	NA	(56)552936840
+laboratorio	Importadora, Distrib. y Comerc. Micro Quality E.I.R.L.	Articulos Para Laboratorios	Capitán Orella 2375 ÑUÑOA - RM	NA	\u00D1U\u00D1OA-RM
+laboratorio	Fersyc LTDA.	Equipos Para Laboratorios	Av Bosque Mar 200 San Pedro de la Paz - VIII Región	WWW.FERSYC.CL	(56)413236220
+laboratorio	Emcys LTDA.	Equipos Para Laboratorios	Lota 2325 PROVIDENCIA - RM	NA	(56)224940789
+laboratorio	Laboratorio Rossan	Laboratorios Dentales	Villanelo 180 Viña del Mar - V Región	NA	(56)322686614
+laboratorio	Sociedad Chilena de Enfermedades Respiratorias	Laboratorios Clinicos	Santa Magdalena 75 PROVIDENCIA - RM	WWW.FERCHILE.CL	(56)222316280
+laboratorio	Aptos Representaciones	Equipos Para Laboratorios	Pje Alcázar 394 CERRILLOS - RM	NA	(56)225397250
+laboratorio	Laboratorio Arbeau LTDA.	Articulos Para Laboratorios	Los Coigües 701 QUILICURA - RM	WWW.ARBEAU.CL	(56)227390694
+laboratorio	Servicio Tecnico Computacional Segcam	Laboratorios Dentales	Av Phillipi 677 Temuco - IX Región	NA	(56)452720780
+laboratorio	Laboratorio Dental Leonardo	Laboratorios Dentales	Pje Guayacán 2452 SAN Joaquín - RM	NA	(56)225555847
+laboratorio	Sociedad Comercial Rumel LTDA.	Laboratorios Fotograficos	Av Chacabuco 254 Los Andes - V Región	WWW.RUMEL.CL	(56)342422223
+laboratorio	Itamed	Laboratorios Clinicos	Yerbas Buenas 298 Penco - VIII Región	NA	(56)413185917
+laboratorio	Certec	Laboratorios Clinicos	Av 5 de Abril 4454 ESTACIÓN Central - RM	www.centec.cl	(56)982394974
+laboratorio	Dental Lobos LTDA.	Laboratorios Dentales	Diego de Velázquez 2179 PROVIDENCIA - RM	NA	(56)222333495
+laboratorio	Servicios Dentales Hansen	Laboratorios Dentales	General Del Canto 122 PROVIDENCIA - RM	www.laboratoriodentalhansen.cl	(56)222362992
+laboratorio	Laboratorio Dental Farema Dent	Laboratorios Dentales	Pje Chile 255 PAINE - RM	NA	(56)990022221
+laboratorio	Sociedad Servicios Control Laboratorio	Laboratorios Farmaceuticos	José de San Martín 2331 Antofagasta - II Región	NA	(56)552430905
+laboratorio	Tc Max Chile S.A	Laboratorios Clinicos	Av Nueva Providencia 2260 PROVIDENCIA - RM	NA	(56)222316322
+laboratorio	Farmaceutica Pentaline S.A.	Equipos Para Laboratorios	Av Tobalaba 155 PROVIDENCIA - RM	WWW.PENTALINE.CL	(56)223620657
+laboratorio	Labsis LTDA.	Equipos Para Laboratorios	Caribes 2270 VITACURA - RM	NA	(56)229536665
+laboratorio	Miriam Barahona y Compania Limitada	Equipos Para Laboratorios	1 1034 SAN Miguel - RM	NA	(56)227930230
+laboratorio	Mc Intyre S.A. Ingenieria y Comercio	Equipos Para Laboratorios	Pje Kennedy 4917 PEÑALOLÉN - RM	NA	(56)227694549
+laboratorio	Mrv Equipos y Servicios Medicos	Equipos Para Laboratorios	Pje General Del Canto 761 PUENTE Alto - RM	NA	(56)228503161
+laboratorio	Distribuidora de Productos de Laboratorios Alonso LTDA.	Equipos Para Laboratorios	San Pedro 931 LA Florida - RM	NA	(56)229845969
+laboratorio	Madawisystem	Equipos Para Laboratorios	Eleuterio Ramírez 1446 SANTIAGO - RM	WWW.MADAWISYSTEM.CL	(56)227177638
+laboratorio	Romulo Leiva Sepulveda	Laboratorios Dentales	Pje Pedro Nolasco 3642 La Serena - IV Región	NA	(56)512481110
+laboratorio	Laboratorio Dental Nortdent	Laboratorios Dentales	Pje El Pirquinero 1679 Copiapó - III Región	NA	(56)974791923
+laboratorio	Laboratorio del Sur	Laboratorios Dentales	Orompello 236 Concepción - VIII Región	NA	(56)412747676
+laboratorio	Dental Barrera	Laboratorios Dentales	Dr. Sótero del Río 470 SANTIAGO - RM	NA	(56)226950062
+laboratorio	Laboratorio Dental Ciudad Jardin	Laboratorios Dentales	Av 7 Hermanas 661 Viña del Mar - V Región	NA	(56)998688785
+laboratorio	Paterson & Cooke	Equipos Para Laboratorios	Callao 3425 LAS Condes - RM	www.patersoncooke.com	(56)222340505
+laboratorio	Laboratorio Clinico Cordillera	Laboratorios Clinicos	Vergara 233 Angol - IX Región	NA	(56)452656486
+laboratorio	Laboratorio Bioequivalencia In Vitro	Laboratorios Farmaceuticos	Av 1 Norte 525 Viña del Mar - V Región	www.bioeq.cl	(56)322970353
+laboratorio	Lha Chile	Laboratorios De Homeopatia	Félix de Amesti 94 LAS Condes - RM	www.lhachile.cl	(56)998850773
+laboratorio	Laboratorio de Histopatología Cemesi	Laboratorios Clinicos	Av Nueva Providencia 1881 PROVIDENCIA - RM	NA	(56)222336515
+laboratorio	Guillermo Diaz Burgos, Laboratorio Clinico	Laboratorios Clinicos	Av Serrano 1319 PUDAHUEL - RM	NA	PUDAHUEL-RM
+laboratorio	Dental Loumge	Laboratorios Dentales	Padre Mariano 10 PROVIDENCIA - RM	NA	(56)222368964
+laboratorio	Gador Limitada	Laboratorios Farmaceuticos	Antonio Bellet 444 PROVIDENCIA - RM	www.gador.com	(56)228871600
+laboratorio	Via Costemica Fuentes del Valle	Laboratorios De Cosmeticos	Italia 751 San Fernando - VI Región	NA	(56)722712318
+laboratorio	Amsterdam	Laboratorios Clinicos	Av Santa Rosa 1503 SANTIAGO - RM	www.labamsterdam.cl	(56)226594300
+laboratorio	Roberto Figueroa Correa, Instalaciones Instrumentales, E.I.R	Equipos Para Laboratorios	Pje San Daniel 1534 INDEPENDENCIA - RM	NA	1534
+laboratorio	Laboratorio Dental C & C Limitada	Laboratorios Dentales	Catedral 1009 SANTIAGO - RM	NA	(56)222471927
+laboratorio	Laboratorio Dental Evandro	Laboratorios Dentales	Estoril 120 LAS Condes - RM	NA	(56)229541909
+laboratorio	Laboratorio Mons Ltda	Laboratorios Dentales	Santiago 710 Villa Alemana - V Región	NA	(56)322952055
+laboratorio	Laboratorio Clinico Aguas Azules	Laboratorios Clinicos	José Miguel Carrera 136 Calbuco - X Región	NA	(56)652461300
+laboratorio	Astroza, Valle y Compania Limitada	Laboratorios Dentales	Lo Fontecilla 101 LAS Condes - RM	NA	LASCondes-RM
+laboratorio	Labotec	Laboratorios Veterinarios	Cerro Los Cóndores 9931 QUILICURA - RM	www.provet.cl	(56)227471100
+laboratorio	Bright	Laboratorios Dentales	Hernando de Aguirre 128 PROVIDENCIA - RM	NA	(56)222468586
+laboratorio	Cicab LTDA.	Laboratorios Clinicos	Av Monseñor Félix Cabrera 14 PROVIDENCIA - RM	NA	(56)223342717
+laboratorio	Perfumes Chick	Laboratorios De Cosmeticos	1 Oriente 1110 Talca - VII Región	www.perfumeschick.cl	(56)712235258
+laboratorio	Laboratotio Raul Manuel Muñoz Salas	Laboratorios Clinicos	Astorga 19 Rancagua - VI Región	NA	(56)722242249
+laboratorio	Laboratorio Pro Arte LTDA.	Laboratorios Dentales	Del Inca 4446 LAS Condes - RM	NA	(56)227310117
+laboratorio	Laboratorio Clinico Veintisiete y Medio LTDA.	Laboratorios Clinicos	Av Gran Av.José Miguel Carrera 9385 LA Cisterna - RM	NA	(56)225592047
+laboratorio	Laboratorio Patricio Arriagada y Compania LTDA.	Laboratorios Clinicos	Claudina Urrutia 241 Cauquenes - VII Región	NA	(56)732512404
+laboratorio	Migo	Laboratorios Fotograficos	Las Azucenas 2997 PROVIDENCIA - RM	www.migo.cl	(56)227234064
+laboratorio	Laboratorio Dental Santa Apolonia Limitada	Laboratorios Dentales	Argomedo 256 Curicó - VII Región	NA	(56)752312047
+laboratorio	Centro Medico Preomed	Laboratorios Clinicos	Los Almendros 8883 Antofagasta - II Región	NA	(56)994291626
+laboratorio	Mundolab S.A.	Articulos Para Laboratorios	M. Antonio Tocornal 1848 SANTIAGO - RM	NA	(56)227836000
+laboratorio	Hercar Laboratorio	Laboratorios Clinicos	Riquelme 776 Iquique - I Región	NA	(56)572422017
+laboratorio	Laboratorio Clinico Bionet	Laboratorios Clinicos	Av Salvador 1068 PROVIDENCIA - RM	www.achsarauco.cl	(56)227677500
+laboratorio	Gesmed	Laboratorios Clinicos	Av Andrés Bello 1249 PROVIDENCIA - RM	www.gesmed.cl	(56)226360380
+laboratorio	Cosmetica Nacional	Laboratorios De Cosmeticos	Vargas Fontecilla 3830 QUINTA Normal - RM	www.cosmeticanacional.cl	(56)224387960
+laboratorio	Laboratorio Lem	Laboratorios De Suelos	HUAYTIQUINA 1601 Calama - II Región	www.lemlaboratorios.cl	(56)552955629
+laboratorio	Laboratorio Clinico Dr. Salame	Laboratorios Clinicos	Av Apoquindo 4100 LAS Condes - RM	www.apoquindodrsalame.cl	(56)222066995
+laboratorio	Bioanalisis	Laboratorios Veterinarios	Barros Arana 1149 Osorno - X Región	NA	(56)642201300
+laboratorio	Veterquimica	Laboratorios Veterinarios	Cno a Lonquén 10387 MAIPÚ - RM	www.veterquimica.cl	(56)223844000
+laboratorio	Novartis Chile	Laboratorios Farmaceuticos	Rosario Norte 615 LAS Condes - RM	www.novartis.cl	(56)223500200
+laboratorio	Laboratorio Huanhuali	Laboratorios Clinicos	Balmaceda 444 La Serena - IV Región	NA	(56)512211438
+laboratorio	Labroman	Laboratorios Dentales	3 Poniente 149 Viña del Mar - V Región	www.labroman.cl	(56)322465520
+laboratorio	Laboratorio Clinico Virginia	Laboratorios Clinicos	Av Manuel Rodríguez 620 San Fernando - VI Región	www.clinicasanfrancisco.cl	(56)722720772
+laboratorio	Laboratorio Controlab	Laboratorios Bromatologicos	América 563 SAN Miguel - RM	NA	(56)225110895
+laboratorio	Novo Nordisk	Laboratorios Farmaceuticos	Av Presidente Riesco 5335 LAS Condes - RM	www.novonordisk.cl	(56)224280200
+laboratorio	Servilab	Equipos Para Laboratorios	Lynch Sur 816 LA Reina - RM	NA	(56)222275672
+laboratorio	Guillermo Guaita Picon	Laboratorios Clinicos	Lib. B. O'Higgins 1250 Copiapó - III Región	NA	(56)522211329
+laboratorio	Pitutin Producciones	Laboratorios Dentales	Milazzo 510 Valparaíso - V Región	www.sin.cl	(56)322597695
+laboratorio	Policlinico Santa Marta	Laboratorios Clinicos	Av Camilo Henríquez 39 Curicó - VII Región	NA	(56)752310272
+laboratorio	Previene Test Spa	Laboratorios Clinicos	Pje Ross 148 Valparaíso - V Región	NA	(56)949751539
+laboratorio	Heel Chile	Laboratorios Farmaceuticos	Av Eliodoro Yáñez 1618 PROVIDENCIA - RM	www.heel.cl	(56)223354811
+laboratorio	Biolab	Laboratorios Clinicos	Ramón Freire 406 Castro - X Región	www.biolabltda.cl	(56)652632768
+laboratorio	Laboratorio Talca	Laboratorios Clinicos	Av Diagonal Isidoro del Solar 99 Talca - VII Región	www.laboratoriotalca.cl	(56)712614121
+laboratorio	Laboratorio Clinico Medisur Ltda	Laboratorios Clinicos	Av Prieto Norte 299 Temuco - IX Región	NA	(56)452955900
+laboratorio	Dia & Tec LTDA.	Equipos Para Laboratorios	Av Simón Bolívar 5197 LA Reina - RM	NA	(56)227619092
+laboratorio	Laboratorio Dental Teknolab	Laboratorios Dentales	Pob. Arturo Prat 188 Coyhaique - XI Región	www.teknolab.cl	(56)672242559
+laboratorio	Schulz Dental LTDA.	Laboratorios Dentales	Av Providencia 2653 PROVIDENCIA - RM	NA	(56)223651414
+laboratorio	Labordent	Laboratorios Dentales	Pje Ranco 8729 CERRO Navia - RM	NA	(56)986557493
+laboratorio	Alpes Laboratorie	Laboratorios Clinicos	Av Isidora Goyenechea 3162 LAS Condes - RM	www.royalpharma.cl	(56)222318648
+laboratorio	Laboratorio Clinico Diagnos	Laboratorios Clinicos	Vicuña Mackenna 1974 Calama - II Región	NA	(56)552311143
+laboratorio	Laboratorios Saval S.A.	Laboratorios Farmaceuticos	Av Pdte Edo M 4600 RENCA - RM	www.saval.cl	(56)227073000
+laboratorio	Sociedad Labident LTDA.	Laboratorios Dentales	Av Laguna Sur 7343 PUDAHUEL - RM	www.clinicadentalabident.cl	(56)227489914
+laboratorio	Sayen Dent	Laboratorios Dentales	Ps Ahumada 254 7 SANTIAGO - RM	www.consultadentalypsicologicaensantiago.com	(56)952452483
+laboratorio	Laboratorio Clinico Geque y Escobar	Laboratorios Clinicos	Caupolicán 504 Calera - V Región	www.kronos.cl	(56)332224365
+laboratorio	Laboratorio Clinico Endoclin	Laboratorios Clinicos	14 Norte 571 Viña del Mar - V Región	www.endoclin.cl	(56)322884943
+laboratorio	Laboratorio Clinico Ex Fadda LTDA.	Laboratorios Clinicos	Cumming 33 Valparaíso - V Región	www.laboratorioexfadda.cl	(56)322217093
+laboratorio	Tekno Via LTDA.	Laboratorios De Suelos	Pje Presidente Jorge Montt 371 Punta Arenas - XII Región	www.teknovia.cl	(56)612244387
+laboratorio	Laboratorio Aclin	Laboratorios Clinicos	9 Norte 795 Viña del Mar - V Región	www.aclin.cl	(56)322534474
+laboratorio	Laboratorio Erna Moraga	Laboratorios Clinicos	Condell 1217 Valparaíso - V Región	NA	(56)322256546
+laboratorio	Laboratorio Clinico Caledonian	Laboratorios Clinicos	5 Norte 901 Viña del Mar - V Región	www.caledonianlab.com	(56)322766350
+laboratorio	Laboratorio Magadental	Laboratorios Dentales	Angamos 917 Punta Arenas - XII Región	NA	(56)612224199
+laboratorio	Medilab	Laboratorios Clinicos	Monseñor Fagnano 504 Punta Arenas - XII Región	NA	(56)612615160
+laboratorio	Magadental Ltda	Laboratorios Dentales	Angamos 917 Punta Arenas - XII Región	NA	(56)997893001
+laboratorio	Medtec Limitada	Laboratorios Farmaceuticos	El Dante 4159 LAS Condes - RM	NA	(56)222283171
+laboratorio	Ortodoncia Edith Mondaca R.	Laboratorios Dentales	Av Apoquindo 7910 LAS Condes - RM	NA	(56)222203400
+laboratorio	Bio Jsp Reparaciones	Equipos Para Laboratorios	Cuevas 1447 SANTIAGO - RM	www.biojsp.cl	(56)225559032
+laboratorio	Galderma Chile Laboratorios LTDA.	Laboratorios Farmaceuticos	Enrique Mac-Iver 440 SANTIAGO - RM	www.galderma.com	(56)224807500
+laboratorio	Laboratorio Atylab	Laboratorios De Suelos	4 Norte 130 Talca - VII Región	NA	(56)712212876
+laboratorio	Andes Importadora y Exportadora	Articulos Para Laboratorios	Pedro Aguirre Cerda 0871 Temuco - IX Región	www.andesimport.cl	(56)452739558
+laboratorio	Laboratorio Dental Carlos Cofre Rivera	Laboratorios Dentales	Arlegui 440 Viña del Mar - V Región	NA	(56)322683104
+laboratorio	Laboratorio y Casa Dental Mardent Especialidades	Laboratorios Dentales	Balmaceda 1195 La Serena - IV Región	NA	(56)512210409
+laboratorio	Janssen Cilag Chile	Laboratorios Farmaceuticos	Av Presidente Kennedy 5454 VITACURA - RM	www.janssen-cilag.com	(56)226555800
+laboratorio	Laboratorio Dental Anita Jara	Laboratorios Dentales	Manuel Bulnes 368 Temuco - IX Región	NA	(56)452528503
+laboratorio	Msd Chile	Laboratorios Farmaceuticos	Av Mariano Sánchez Fontecilla 310 LAS Condes - RM	www.msdchile.cl	(56)223621660
+laboratorio	Laboratorio Clinico Santa Maria	Laboratorios Clinicos	Juan de Dios Pení 431 La Serena - IV Región	www.laboratoriosantamaria.cl	(56)512550142
+laboratorio	Dialisis y Laboratorio Arica LTDA.	Laboratorios Clinicos	18 de Septiembre 933 Arica - XV Región	NA	(56)582258073
+laboratorio	Andes Import	Articulos Para Laboratorios	Gral. Gonz. Balcarce 2041 SANTIAGO - RM	www.andesimport.cl	(56)226834510
+laboratorio	Geocontrol	Laboratorios De Suelos	María Auxiliadora 799 SAN Miguel - RM	NA	(56)225250356
+laboratorio	Servicios de Laboratorio Clínico Ltda.	Laboratorios Clinicos	Manuel Antonio Matta 1891 Antofagasta - II Región	NA	(56)552893133
+laboratorio	Ghc Laboratorios Farmacéuticos	Laboratorios Farmaceuticos	Dr. M. Barros Borg. 450 PROVIDENCIA - RM	www.ghc-chile.cl	(56)222354356
+laboratorio	B y B Farmaceutica LTDA.	Laboratorios Farmaceuticos	Parinacota 381 QUILICURA - RM	NA	(56)227392372
+laboratorio	Cheul & Etcheverry	Laboratorios Clinicos	Arlegui 440 Viña del Mar - V Región	www.cheul.cl	(56)322714189
+laboratorio	Allergan Laboratorios	Laboratorios Farmaceuticos	Av Apoquindo 3472 LAS Condes - RM	www.allergan.com	(56)227291800
+laboratorio	Histomed	Laboratorios Clinicos	Balmaceda 1015 La Serena - IV Región	NA	(56)512222563
+laboratorio	Laboratorio Clinico Cordillera	Laboratorios Clinicos	Doctor Genaro Reyes 581 Los Angeles - VIII Región	www.clinicalosandes.cl	(56)432210280
+laboratorio	Inmunomedica	Laboratorios Clinicos	Castellón 317 Concepción - VIII Región	www.inmunomedica.cl	(56)412523416
+laboratorio	Prolab	Equipos Para Laboratorios	Vergara 24 SANTIAGO - RM	NA	(56)226987215
+laboratorio	Profile Chile	Articulos Para Laboratorios	Ps Huérfanos 835 SANTIAGO - RM	NA	(56)222871545
+laboratorio	Farmalatina	Articulos Para Laboratorios	Pje Las Encinas 1495 LAMPA - RM	www.farmalatina.cl	(56)228385000
+laboratorio	Laboratorio Clínico Zaragoza	Laboratorios Clinicos	Angel Guarello 2575 PEDRO Aguirre Cerda - RM	www.laboratoriozaragoza.cl	(56)225214614
+laboratorio	Laboratorio Clinico Central	Laboratorios Clinicos	Mendoza 357 Los Angeles - VIII Región	www.laboratoriocentral.cl	(56)432320111
+laboratorio	Clinicum	Laboratorios Clinicos	Esmeralda 731 Iquique - I Región	www.clinicum.cl	(56)572412599
+laboratorio	Centro Medico Riñihue	Laboratorios Clinicos	Manuel Antonio Matta 295 Los Lagos - XIV Región	NA	(56)632461295
+laboratorio	Laboratorio Veterianario Lavet	Laboratorios Veterinarios	Carampangue 595 Valdivia - XIV Región	NA	(56)632244262
+laboratorio	Laboratorio Diagnotec Gam	Laboratorios Clinicos	Sargento Aldea 2650 Puerto Montt - X Región	www.diagnotec.cl	(56)652267098
+laboratorio	Alberto Javier Galdames Carrasco	Laboratorios Dentales	18 de Septiembre 1154 Arica - XV Región	NA	(56)582254731
+laboratorio	Laboratorio Durandin S.A.	Laboratorios De Cosmeticos	José Nogueira 1260 Punta Arenas - XII Región	NA	(56)612240443
+laboratorio	Porcelab	Laboratorios Clinicos	Av Santa María 217 RECOLETA - RM	www.procelab.cl	(56)227321436
+laboratorio	Laboratorio Clinico Angol	Laboratorios Clinicos	Ilabaca 745 Angol - IX Región	www.laboratorioangol.com	(56)452463216
+laboratorio	Biolab	Articulos Para Laboratorios	Gijón 33 San Pedro de la Paz - VIII Región	www.biolab.cl	(56)412976759
+laboratorio	Bioline	Laboratorios Clinicos	Bascuñán Guerrero 2066 SANTIAGO - RM	www.bioline.cl	(56)226843087
+laboratorio	Laboratorio Biotes	Laboratorios Clinicos	Eleuterio Ramírez 1278 Vallenar - III Región	NA	(56)512611854
+laboratorio	Laboratorio Anatomia Patologica Schalper S a	Laboratorios Clinicos	Angol 436 Concepción - VIII Región	www.laboratoriolap.cl	(56)412226143
+laboratorio	Laboratorios de Criopreservación	Laboratorios Clinicos	Arturo Junge 75 Concepción - VIII Región	www.criocelt.cl	(56)412733128
+laboratorio	Arteclab	Laboratorios Dentales	Esmeralda 598 Arauco - VIII Región	NA	(56)412553589
+laboratorio	Centro Medico Juen	Laboratorios Clinicos	Av Alto Horno 133 Talcahuano - VIII Región	NA	(56)412585728
+laboratorio	Sociedad de Profesionales Medicos Diagnocal	Laboratorios Clinicos	Carrera 503 Calera - V Región	NA	(56)332225144
+laboratorio	Distribuidora Farmage	Laboratorios Farmaceuticos	Av Suecia 42 PROVIDENCIA - RM	NA	(56)229462177
+laboratorio	Duradent Laboratorio Dental	Laboratorios Clinicos	Eladio Lazcano 257 Casablanca - V Región	NA	(56)322742394
+laboratorio	Laboratorio Sotem LTDA.	Laboratorios Clinicos	Av Jorge Alessandri 3511 Talcahuano - VIII Región	NA	(56)412734293
+laboratorio	Centro Medico Luis Pasteur	Laboratorios Clinicos	Astorga 165 Rancagua - VI Región	www.laboratorioluispasteur.cl	(56)722230632
+laboratorio	Atg Equipos de Laboratorio	Equipos Para Laboratorios	Garibaldi 188 LAMPA - RM	NA	(56)995139506
+laboratorio	Laboratorio Diagnostika	Laboratorios Clinicos	Av Salvador 135 PROVIDENCIA - RM	www.lemdiagnostika.cl	(56)222743504
+laboratorio	Laboclin	Laboratorios Clinicos	No Publica Dirección 01 SANTIAGO - RM	www.laboclin.cl	(56)322389980
+laboratorio	Imase Ingenieria Mantencion y Servicios	Equipos Para Laboratorios	Los Canteros 8666 LA Reina - RM	NA	(56)226511400
+laboratorio	Bioseguridad Chile Limitada	Equipos Para Laboratorios	Av José Pedro Alessandri 665 ÑUÑOA - RM	WWW.BIOSEGURIDADCHILE.CL	(56)223565440
+laboratorio	Comercializadora Sumilab	Equipos Para Laboratorios	Av Providencia 337 PROVIDENCIA - RM	WWW.SUMILAB.CL	(56)223419571
+laboratorio	Servicios Integrales de Equipos Medicos Limitada	Equipos Para Laboratorios	Santa Adela 5263 SAN Miguel - RM	NA	(56)222960566
+laboratorio	Evaluacion y Control Ambiental Ecambiente	Equipos Para Laboratorios	7ª Avenida 1370 SAN Miguel - RM	NA	(56)224593877
+laboratorio	Cima Sur	Laboratorios Veterinarios	Pje 1 118 Penco - VIII Región	WWW.CIMASUR.CL	(56)413188459
+laboratorio	Sociedad Walmor	Laboratorios De Suelos	Independencia 1587 San Carlos - VIII Región	NA	(56)422414314
+laboratorio	Centro Alcomed	Laboratorios Clinicos	Punta Arenas 86 Casablanca - V Región	www.alcomed.cl	(56)322742165
+laboratorio	Diagnotec Comercial S.A.	Laboratorios Veterinarios	Sargento Aldea 2650 Puerto Montt - X Región	www.diagnotec.cl	(56)652267098
+laboratorio	Laboratorio Nancy Ceballo Guzman	Laboratorios Dentales	Yungay 0 Cauquenes - VII Región	NA	(56)732513887
+laboratorio	Soc de Profesionales Medilab Limitada	Laboratorios Clinicos	Miguel Aguirre 280 Ovalle - IV Región	NA	(56)532621534
+laboratorio	Morales y Fuentealba LTDA.	Laboratorios De Suelos	Valentín Letelier 609 Linares - VII Región	WWW.AGROGESTLTDA.CL	(56)732212375
+laboratorio	Centro Medico Emi	Laboratorios Clinicos	Av Regimiento Arica 0 Coquimbo - IV Región	NA	(56)512224552
+laboratorio	Metaldent	Laboratorios Dentales	San Rafael 1050 SANTIAGO - RM	WWW.METALDENT.CL	(56)226351825
+laboratorio	Natural Lab	Laboratorios Dentales	Carrera 310 Curicó - VII Región	NA	(56)752320872
+laboratorio	Trc Equipos Limitada	Equipos Para Laboratorios	8ª Avenida 1150 SAN Miguel - RM	es-la.facebook.com/trc-equipos-ltda-203984013073365/	(56)227858014
+laboratorio	Laboratorio Histotec Limitada	Laboratorios Clinicos	Av Los Pajaritos 3195 MAIPÚ - RM	www.histotec.cl	(56)225681820
+laboratorio	Ufro	Laboratorios De Suelos	Av Francisco Salazar 01145 Temuco - IX Región	www.ufro.cl	(56)452325000
+laboratorio	Laboratorio Médico Bioclinic	Laboratorios Clinicos	No Publica Dirección 01 SANTIAGO - RM	www.bioclinic.cl	(56)995440744
+laboratorio	Clinica Dental San Gumercindo	Laboratorios Dentales	San Gumercindo 43 ESTACIÓN Central - RM	NA	(56)223242837
+laboratorio	Laboratorio Clinico Torre Medica	Laboratorios Clinicos	Av Bombero Villalobos 1049 Rancagua - VI Región	www.clinicaisamedica.cl	(56)722219096
+laboratorio	Laboratorio Clinico San Vicente	Laboratorios Clinicos	Dr. E. Gonz. Cortés 463 San Vicente - VI Región	www.labclinicosanvicente.cl	(56)722571441
+laboratorio	Analisis Laboratorio Ltda	Laboratorios Dentales	José Carvacho 0 Santa Cruz - VI Región	NA	(56)722825396
+laboratorio	Centro Medico Indira	Laboratorios Clinicos	Sgto. J. B. Cáceres 361 Rancagua - VI Región	NA	(56)722231550
+laboratorio	Filtromed	Equipos Para Laboratorios	Dr. P. Lautaro F. 3112 PROVIDENCIA - RM	www.filtromed.cl	(56)224340600
+laboratorio	Implant Lab Ltda	Laboratorios Dentales	Av Providencia 2370 PROVIDENCIA - RM	www.implantlab.cl	(56)222614936
+laboratorio	Labosel LTDA.	Laboratorios De Suelos	Phillippi 622 Temuco - IX Región	WWW.UCT.CL	(56)452658023
+laboratorio	Tecnologias Integradas Agsens Limitada	Equipos Para Laboratorios	Merced 838 SANTIAGO - RM	WWW.AGSENS.CL	(56)226325625
+laboratorio	Ines Fernandez y Compania Limitada	Laboratorios Clinicos	Yerbas Buenas 263 Los Andes - V Región	NA	(56)342424103
+laboratorio	Sociedad Ezcurra Diaz y Otros y Compania Limitada	Laboratorios Veterinarios	Ramón Freire 488 Castro - X Región	NA	(56)652531822
+laboratorio	Sociedad Valle Salud Limitada	Laboratorios Clinicos	Balmaceda 107 Monte Patria - IV Región	NA	(56)532712224
+laboratorio	Instituto de Diagnostico Cerebral Ltda	Laboratorios Clinicos	Del Inca 4446 LAS Condes - RM	NA	(56)222085311
+laboratorio	Wikerterra	Laboratorios De Suelos	Pje Los Carrera 7373 LA Florida - RM	www.laboratoriodesueloysondaje.com	(56)229693318
+laboratorio	Soc Laboratorio Clinico Presmed Limitada	Laboratorios Clinicos	San Antonio 378 SANTIAGO - RM	NA	(56)226380287
+laboratorio	Distribuidora y Comercializadora de Insumos de Laboratorio L	Equipos Para Laboratorios	Santa Elvira 548 SANTIAGO - RM	NA	(56)224620870
+laboratorio	Tecnologia Medica Ortega Letelier LTDA.	Laboratorios Clinicos	Pedro Aguirre Cerda 01188 LA Cisterna - RM	NA	(56)225589652
+laboratorio	Laboratorio Clinico Hemolab Limitada	Laboratorios Clinicos	Av Alessandri 288 Coquimbo - IV Región	NA	(56)512215124
+laboratorio	Soc Laboratorio Clinico Integral Eh Ehrlich Ltda	Laboratorios Clinicos	José de San Martín 2390 Antofagasta - II Región	NA	(56)552382540
+laboratorio	Arevalo Astroza y Compania Limitada	Laboratorios Dentales	Moneda 812 SANTIAGO - RM	NA	(56)222430916
+laboratorio	Laboratorio Doctora Sabina Moreno y Cia.Ltda.	Laboratorios Clinicos	Guardia Vieja 255 PROVIDENCIA - RM	WWW.LABSM.CL	(56)223310218
+laboratorio	Pharma Knop Inversiones Limitada	Laboratorios Clinicos	Av Doctor Salas Mecker 1015 Quilpué - V Región	NA	(56)322910773
+laboratorio	Sociedad Laboratorio Clinico Wintrobe LTDA.	Laboratorios Clinicos	Av Vicuña Mackenna 3 SANTIAGO - RM	NA	(56)226331188
+laboratorio	Soc Rodriguez y Cabrera Ltda	Laboratorios Dentales	Ps Estado 33 SANTIAGO - RM	NA	(56)226390164
+laboratorio	Rivas y Carreno Limitada	Laboratorios Dentales	Ps Ahumada 6 SANTIAGO - RM	NA	(56)226981452
+laboratorio	Laboratorio Clinico Gilabert Ltda	Laboratorios Clinicos	Santa Isabel 36 SANTIAGO - RM	NA	(56)992332438
+laboratorio	Julio Cesar Huentenao Galaz	Laboratorios Dentales	General Las Heras 650 Punta Arenas - XII Región	NA	(56)993891879
+laboratorio	Fotos Eli	Laboratorios Fotograficos	Pje Tupungato 3282 Arica - XV Región	NA	(56)978544246
+laboratorio	Rpmr S.A.	Equipos Para Laboratorios	General Del Canto 112 PROVIDENCIA - RM	NA	(56)229829385
+laboratorio	Laboratorio Clinico Yuen Limitada	Laboratorios Clinicos	Aníbal Pinto 215 Concepción - VIII Región	NA	(56)412230027
+laboratorio	Laboratorio Clinico Biomed Limitada	Laboratorios Clinicos	Ariztía Poniente 103 Ovalle - IV Región	NA	(56)532624743
+laboratorio	Soc Bioclin Limitada	Laboratorios Clinicos	Av Libertad 1099 Chillán - VIII Región	NA	(56)422240387
+laboratorio	Laboratorio Chile S.A.	Laboratorios Farmaceuticos	Av Marathon 3830 MACUL - RM	NA	(56)225967900
+laboratorio	Laboratorio Dental Marco Herrera	Laboratorios Dentales	Manuel Bulnes 351 Temuco - IX Región	NA	(56)452720021
+laboratorio	Laboratorio Dental Araucania	Laboratorios Dentales	Villota 699 Curicó - VII Región	NA	(56)752224775
+laboratorio	Laboratorio Dental Jorge Cammas	Laboratorios Dentales	Carmen Ortiz 140 Villa Alegre - VII Región	NA	(56)732382179
+laboratorio	Imagenologia Clinica	Laboratorios Clinicos	Av Prieto Norte 299 Temuco - IX Región	NA	(56)452955991
+laboratorio	Laboratorio Clinico Tecme y Compania Limitada	Laboratorios Clinicos	Diego Lillo 221 Calera - V Región	NA	(56)332252914
+laboratorio	Rb Tecnia Limitada	Articulos Para Laboratorios	Av Irarrázaval 2821 ÑUÑOA - RM	NA	(56)222239553
+laboratorio	Laboratorio Dental Identic Limitada	Laboratorios Dentales	Catedral 5328 LO Prado - RM	NA	(56)227756171
+laboratorio	Odontoimagen Spa	Laboratorios Dentales	Lota 303 Puerto Montt - X Región	NA	(56)652275544
+laboratorio	Laboratorio Clinico y Asesorias Afines Limita	Laboratorios Clinicos	Imperial 680 Puerto Varas - X Región	NA	(56)652271750
+laboratorio	Laboratorio Clinico Thomas Limitada	Laboratorios Clinicos	Carlos Condell 228 Coyhaique - XI Región	NA	(56)672210051
+laboratorio	Laboratorio Tekno Via LTDA.	Laboratorios De Suelos	Pje Presidente Jorge Montt 371 Punta Arenas - XII Región	NA	(56)612244387
+laboratorio	Cruz y Guiresse Limitada	Laboratorios Clinicos	Av Francia 1655 Valdivia - XIV Región	NA	(56)632229506
+laboratorio	Empresa Eduardo Mario Jara Martinez Laborator	Laboratorios Clinicos	18 de Septiembre 1338 Arica - XV Región	NA	(56)582258198
+laboratorio	Sociedad Medico Odontologica Santa Fe Ltda	Laboratorios Dentales	14 de Febrero 1985 Antofagasta - II Región	NA	(56)552486526
+laboratorio	Andoni Etcheverry y Compania Limitada	Laboratorios Clinicos	Edwards 660 Valparaíso - V Región	WWW.LABORATORIOETCHEVERRY.CL	(56)322226779
+laboratorio	Laboratorios Rider S.A.	Laboratorios Farmaceuticos	Placer 1354 SANTIAGO - RM	WWW.LABRIDER.CL	(56)224898800
+laboratorio	Laboratorio Koni Cofarm S.A.	Laboratorios De Cosmeticos	Conquistador del M. 4775 HUECHURABA - RM	NA	(56)222446974
+laboratorio	Key Company S a	Laboratorios De Cosmeticos	Panamericana Norte 5369 CONCHALÍ - RM	NA	(56)224838300
+laboratorio	Laboratorio Clinico Diagnostika Alemana LTDA.	Laboratorios Clinicos	Villanelo 180 Viña del Mar - V Región	WWW.DIAGNOSTIKA.CL	(56)322268075
+laboratorio	Laboratorio Clinico e Imaginologia Bactotec S.A.	Laboratorios Clinicos	Dieciocho 87 SANTIAGO - RM	NA	(56)226955256
+laboratorio	Laboratorio Prox S.A.	Laboratorios Farmaceuticos	Agustinas 1350 SANTIAGO - RM	WWW.PROX.CL	(56)222905700
+laboratorio	Biologica Laboratorios S.A.	Laboratorios De Cosmeticos	Chiloé 1820 SANTIAGO - RM	NA	(56)224470333
+laboratorio	Comercializadora Centraltoner Limitada	Equipos Para Laboratorios	Pje de Las Religiosas LA Florida - RM	NA	(56)222651301
+laboratorio	Laboratorios Dentales Maria Lorena Gonzalez Alvarez	Laboratorios Dentales	Av Nueva Providencia 2060 PROVIDENCIA - RM	NA	(56)222325419
+laboratorio	Sonorad II S.A.	Laboratorios Clinicos	Av Chacabuco 671 Copiapó - III Región	NA	(56)522235853
+laboratorio	Centro Medico Minero de Chile	Laboratorios Clinicos	Antonino Toro 868 Antofagasta - II Región	www.cmmchile.cl	(56)552247856
+laboratorio	Sociedad de Laboratorio Medico Clinico LTDA.	Laboratorios Clinicos	Cap. A. Prat Chacón 266 Antofagasta - II Región	NA	(56)996342671
+laboratorio	Karen Díaz Romero	Laboratorios Clinicos	Germán Ebbinghauss 2558 PUENTE Alto - RM	NA	(56)973545181
+laboratorio	Virginia Saenz y Ccompania Limitada	Laboratorios Clinicos	Av Vicuña Mackenna 82 Peumo - VI Región	NA	(56)722715450
+laboratorio	Equipamientos y Muebles Espanoles Limitada	Muebles Para Laboratorios	Obispo Del Solar 5678 LA Reina - RM	WWW.EQUIPAMIENTOSESPANOLES.CL	(56)987496381
+laboratorio	Boris Villalobos Deu y Compania Limitada	Equipos Para Laboratorios	Los Alerces 2435 ÑUÑOA - RM	NA	(56)222373090
+laboratorio	Rivera y Rivera LTDA.	Laboratorios De Suelos	Parq. Ind. Escuadrón 2 Coronel - VIII Región	NA	(56)989225251
+laboratorio	Laboratorio Clinico Diagnostico Clinilab LTDA.	Laboratorios Clinicos	Av Valparaíso 645 Villa Alemana - V Región	NA	(56)322951912
+laboratorio	Certilab Laboratorios E.I.R.L.	Laboratorios Clinicos	R 5 Sur 0 Chillán - VIII Región	www.certilab.cl	(56)422971560
+laboratorio	Nutricion Genetica	Laboratorios Clinicos	Dinamarca 549 Temuco - IX Región	www.nutriciongenetica.cl	(56)452272136
+laboratorio	German Rivera	Laboratorios Dentales	Av Providencia 2594 PROVIDENCIA - RM	NA	(56)223345737
+laboratorio	Scqc	Laboratorios Clinicos	Av Salvador 149 PROVIDENCIA - RM	NA	(56)222092881
+laboratorio	Labocenter	Laboratorios Clinicos	Astorga 145 Rancagua - VI Región	www.labocenter.cl	(56)722743460
+laboratorio	Cesar Uribe Ramirez	Laboratorios Dentales	París 834 SANTIAGO - RM	www.cdental.cl	(56)226336868
+laboratorio	Servicio Odontologico Alto Estoril LTDA.	Laboratorios Dentales	Estoril 50 LAS Condes - RM	www.altoestoril.cl	(56)222475539
+laboratorio	Artees Dental LTDA.	Laboratorios Dentales	Av Chacabuco 216 Concepción - VIII Región	NA	(56)412733878
+laboratorio	Laboratorio Dental Carlos Alarcon	Laboratorios Dentales	Pje Golfo Trinidad 2681 MAIPÚ - RM	NA	(56)228856356
+laboratorio	Laboratorio Wallace	Laboratorios Clinicos	Almirante Latorre 973 Iquique - I Región	www.clinicowallace.cl	(56)962257843
+laboratorio	Laboratorio Clinico Providencia LTDA.	Laboratorios Clinicos	Av Salesianos 1178 SAN Miguel - RM	NA	(56)225226087
+laboratorio	Marcela Marquez Villagra	Laboratorios Clinicos	Pje Pedro Lira 502 TALAGANTE - RM	NA	(56)989695486
+laboratorio	Cobolab	Articulos Para Laboratorios	Pje Lanalhue 1681 CERRO Navia - RM	NA	(56)226443558
+laboratorio	Laboratorio Dental Wirovest	Laboratorios Dentales	San Antonio 31 SANTIAGO - RM	www.wirovest.laboratoriodental.cl	(56)226384332
+laboratorio	Laboratorio Dental Reyes	Laboratorios Dentales	Hernando de Aguirre 128 PROVIDENCIA - RM	NA	(56)222328727
+laboratorio	Frby Fabian Rosales	Laboratorios De Cosmeticos	José Joaquín Pérez 345 Calera - V Región	NA	(56)332226286
+laboratorio	Silkey Chile	Laboratorios De Cosmeticos	Román Díaz 228 PROVIDENCIA - RM	www.silkeymundial.com	(56)222364346
+laboratorio	Laboratorios Kampar	Laboratorios Farmaceuticos	Andrés de Fuenzalida 22 PROVIDENCIA - RM	www.kampar.cl	(56)223354030
+laboratorio	Laboratorios Rider Ltda	Laboratorios Farmaceuticos	El Castaño 145 LAMPA - RM	www.rider.cl	(56)224990800
+laboratorio	Astrazeneca	Laboratorios Farmaceuticos	Av Isidora Goyenechea 3477 LAS Condes - RM	www.astrazeneca.cl	(56)227980800
+laboratorio	Laboratorio Clinico de Agostini	Laboratorios Clinicos	G. Pérez de Arce 472 Punta Arenas - XII Región	NA	(56)612222068
+laboratorio	Sociedad Comercial Lab Service Limitada	Articulos Para Laboratorios	Av Quilín 2068 MACUL - RM	www.labservice.cl	(56)227939423
+laboratorio	Centro Computarizado de Manometria y P H 24 Horas	Laboratorios Clinicos	Av Luis Thayer Ojeda 0191 PROVIDENCIA - RM	www.ccmph.cl	(56)223341566
+laboratorio	Pro Cirurgica	Articulos Para Laboratorios	Av Suecia 3646 ÑUÑOA - RM	www.procirurgica.cl	(56)227523893
+laboratorio	Winkler LTDA.	Articulos Para Laboratorios	Pje El Quillay 466 LAMPA - RM	www.winklerltda.com	(56)224826500
+laboratorio	Laboratorio Clinico Caupolican	Laboratorios Clinicos	Arturo Prat 515 Temuco - IX Región	NA	(56)452217644
+laboratorio	Labonorte	Laboratorios Clinicos	18 de Septiembre 1154 Arica - XV Región	NA	(56)582233466
+laboratorio	Merck S.A.	Articulos Para Laboratorios	Francisco de Paula 1981 ÑUÑOA - RM	www.merck.cl	(56)223400000
+laboratorio	Laboratorio Clinico Doctor Rene Christen y Cia Limitada	Laboratorios Clinicos	2 Sur 853 Talca - VII Región	NA	(56)712263248
+laboratorio	Laboratorio Luis Pasteur	Laboratorios Clinicos	14 de Febrero 2556 Antofagasta - II Región	www.laboratorioluispasteur.cl	(56)552263604
+laboratorio	Itf Labomed	Laboratorios Farmaceuticos	Cerro El Plomo 5420 LAS Condes - RM	www.itf-labomed.cl	(56)226567800
+laboratorio	Pmg Pharma	Laboratorios Farmaceuticos	Av Antonio Varas 2615 ÑUÑOA - RM	www.pmgpharma.com	(56)222747450
+laboratorio	Ilender Chile	Laboratorios Veterinarios	Av Américo Vespucio 2880 CONCHALÍ - RM	www.ilendercorp.com	(56)226239796
+laboratorio	Coprolab	Articulos Para Laboratorios	Cno Internacional 0 San Felipe - V Región	www.coprolab.cl	(56)342591569
+laboratorio	Arquimed	Articulos Para Laboratorios	Angol 127 Concepción - VIII Región	www.arquimed.cl	(56)412521045
+laboratorio	Fotografia Pedro Pablo	Laboratorios Fotograficos	18 de Septiembre 82 PEÑAFLOR - RM	NA	(56)228115779
+laboratorio	Laboratorio Clinico Bio-Laser	Laboratorios Clinicos	18 de Septiembre 1338 Arica - XV Región	www.peritajepsicologico.cl	(56)582258198
+laboratorio	Fotos San Antonio	Laboratorios Fotograficos	San Antonio 1001 Viña del Mar - V Región	NA	(56)322697683
+laboratorio	Arvident	Laboratorios Dentales	Lincoyán 71 Concepción - VIII Región	www.arvident.cl	(56)412464192
+laboratorio	Bioscan	Laboratorios Clinicos	Valenzuela Castillo 1218 PROVIDENCIA - RM	www.bioscan.cl	(56)223740886
+laboratorio	Aamq Asesorias y Ventas de Insumo para Laboratorios Quimicos	Laboratorios Clinicos	Pje San Marcos 440 QUILICURA - RM	NA	(56)994151946
+laboratorio	Citonet	Laboratorios Clinicos	General Velásquez 1269 Antofagasta - II Región	www.citonet.cl	(56)552486623
+laboratorio	Laboratorio Clinico Alameda Onofre Gonzalez Cerda E.I.R.L	Laboratorios Clinicos	Pte. J. Antonio Ríos 26 SANTIAGO - RM	NA	(56)226392204
+laboratorio	Psi Cro	Laboratorios Farmaceuticos	Miraflores 222 SANTIAGO - RM	www.psi-cro.com	(56)227166008
+laboratorio	Laboratorio Crystal	Laboratorios Clinicos	Manuel Antonio Matta 2095 Antofagasta - II Región	NA	(56)552895584
+laboratorio	Carmen Laura Martinez Villagra	Laboratorios Dentales	Llano Subercaseaux 4005 SAN Miguel - RM	NA	(56)225441838
+laboratorio	Tecnodel LTDA.	Laboratorios Dentales	Av Providencia 1308 PROVIDENCIA - RM	www.ecad.cl	(56)222351277
+laboratorio	Mical	Laboratorios Bromatologicos	Av Salvador 2192 ÑUÑOA - RM	www.mical.cl	(56)223437135
+laboratorio	Beraudent LTDA.	Laboratorios Dentales	Monjitas 527 SANTIAGO - RM	www.beraudent.cl	(56)223610562
+laboratorio	Glaxosmithkline	Laboratorios Farmaceuticos	Av Andrés Bello 2687 LAS Condes - RM	www.hinds.cl	(56)223829000
+laboratorio	Laboratorio Clinico Oriana Fernandez	Laboratorios Clinicos	Pudeto 282 Quillota - V Región	NA	(56)332258055
+laboratorio	Libra Chile S.A.	Laboratorios Farmaceuticos	Av Apoquindo 5555 LAS Condes - RM	NA	(56)222022867
+laboratorio	Laboratorio Sigmalab	Laboratorios Clinicos	La Capilla 7546 CERRO Navia - RM	www.sigmalab.cl	(56)227729429
+laboratorio	Serprex Consultores	Equipos Para Laboratorios	Pje La Aurora 1827 VITACURA - RM	NA	(56)227104173
+laboratorio	Delgado y CIA. LTDA.	Equipos Para Laboratorios	Av Los Tamarugos 121 Antofagasta - II Región	NA	(56)552783793
+laboratorio	Dentoremovible	Laboratorios Dentales	Saavedra 255 Purén - IX Región	NA	(56)452793262
+laboratorio	Instrumentales Cientificos Delta Ohm Chile Limitada	Equipos Para Laboratorios	Av Gran Av.José Miguel Carrera 8379 LA Cisterna - RM	WWW.DELTAOHM.CL	(56)992316883
+laboratorio	Control y Ensayo de Suelos y Asfaltos Terra	Laboratorios De Suelos	Av Einstein 1224 INDEPENDENCIA - RM	WWW.LABORATORIOTERRA.CL	(56)227369533
+laboratorio	Laboratorio Bio Quimico Bactereologico B	Laboratorios Clinicos	Av Francesa 97 Concepción - VIII Región	WWW.LABORATORIOBIOBIO.CL	(56)412730181
+laboratorio	Dimyl S.A.	Articulos Para Laboratorios	Av Walker Martínez 3336 LA Florida - RM	www.dimyl.cl	(56)222965822
+laboratorio	Laboratorio Abaco	Laboratorios De Suelos	Av Salvador 2185 ÑUÑOA - RM	NA	(56)223418175
+laboratorio	Centrovet Lta.	Laboratorios Veterinarios	Salomón Sack 255 CERRILLOS - RM	www.centrovet.com	(56)225837700
+laboratorio	Protesis Fija Enrique Marchant	Laboratorios Dentales	Armando Sanhueza 1073 Punta Arenas - XII Región	NA	(56)612228753
+laboratorio	Laboratorios Dentales Catalan	Laboratorios Dentales	Av Barros 502 MELIPILLA - RM	NA	(56)228324111
+laboratorio	Laboratorio Clinico Besomi	Laboratorios Clinicos	Merced 255 Curicó - VII Región	NA	(56)752311005
+laboratorio	Laboratorio Santa Maria	Laboratorios Dentales	San Antonio 378 SANTIAGO - RM	NA	(56)226643799
+laboratorio	Diagnolab	Laboratorios Clinicos	Av Colipí 484 Copiapó - III Región	NA	(56)522217272
+laboratorio	Laboratorio Dental Rodrigo Castro	Laboratorios Dentales	Quito 41 SANTIAGO - RM	www.laboratoriodentalrodrigocastro.cl	(56)226331116
+laboratorio	Laboratorio Clinico Alcantara	Laboratorios Clinicos	Manuel Montt 357 Curicó - VII Región	NA	(56)752317359
+laboratorio	Laboquimterra LTDA.	Laboratorios De Suelos	Av 21 de Mayo 1699 Quillota - V Región	NA	(56)332314026
+laboratorio	Laboratorio Dental Marco Valderrama	Laboratorios Dentales	Pje Las Achiras 1163 Rancagua - VI Región	www.labdentalmvr.cl	(56)722242009
+laboratorio	Laboratorio Dental Mm	Laboratorios Dentales	Maestranza 355 Ovalle - IV Región	NA	(56)532627739
+laboratorio	Laboratorio de Especialidades Dentales Vi-Dent LTDA.	Laboratorios Dentales	Caupolicán 555 Valdivia - XIV Región	NA	(56)632207818
+laboratorio	Universidad Tecnologica Metropolitana	Laboratorios De Suelos	Dieciocho 161 SANTIAGO - RM	www.utem.cl	(56)222370483
+laboratorio	Boehringer Ingelheim LTDA.	Laboratorios Farmaceuticos	General Del Canto 421 PROVIDENCIA - RM	www.ondero.cl	(56)222640010
+laboratorio	Laboratorio Clinico Quilpue Limitada	Laboratorios Clinicos	Irarrázaval 446 Quilpué - V Región	NA	(56)322403032
+laboratorio	Laboratorio de Control Tecnico Llay Llay	Laboratorios De Suelos	Av José Manuel Balmaceda 485 Llay-Llay - V Región	www.laboratoriollayllay.cl	(56)342612480
+laboratorio	Laboratorio Herboandina	Laboratorios Farmaceuticos	Agustinas 1350 SANTIAGO - RM	www.herboandina.cl	(56)226826907
+laboratorio	Laboratorio Clinico Vallenar	Laboratorios Clinicos	Arturo Prat 1251 Vallenar - III Región	NA	(56)512610558
+laboratorio	Foto Flasch	Laboratorios Fotograficos	Av Rafael Casanova 371 Santa Cruz - VI Región	NA	(56)722822697
+laboratorio	Laboratorio Veterinario Vetlab	Laboratorios Clinicos	Av Santa Rosa 1934 SANTIAGO - RM	NA	(56)228304363
+laboratorio	Laboratorio Soiltest LTDA.	Laboratorios De Suelos	Paulina 7880 LA Cisterna - RM	NA	(56)225484123
+laboratorio	Medisalud	Laboratorios Clinicos	Carampangue 708 San Fernando - VI Región	www.medisalud.cl	(56)722716396
+laboratorio	Pfizer Chile S. A.	Laboratorios Farmaceuticos	Cerro El Plomo 5680 LAS Condes - RM	www.toviaz.cl	(56)222412000
+laboratorio	Roche Chile	Laboratorios Farmaceuticos	Cerro El Plomo 5630 LAS Condes - RM	www.roche.cl	(56)224413200
+laboratorio	Laboratorios Garden House	Laboratorios Farmaceuticos	Pje Presidente Jorge 12310 SAN Bernardo - RM	www.gardenhouse.cl	NA
+laboratorio	Laboratorio Clinico Araucania	Laboratorios Clinicos	Av Caupolicán 447 Temuco - IX Región	www.directoriomedicodechile.cl	800200789
+laboratorio	Wbs LTDA.	Laboratorios De Suelos	Pje 4 688 Copiapó - III Región	www.wbsltda.cl	(56)452401558
+laboratorio	Centro de Ortodoncia la Dehesa Limitada	Laboratorios Dentales	Av El Rodeo 13499 LO Barnechea - RM	NA	(56)522226520
+laboratorio	Laboratorio Dental Davinci Arte y Tecnologia Limitada	Laboratorios Dentales	Irarrázaval 4888 ÑUÑOA - RM	NA	(56)222162990
+laboratorio	Soc Duran y Pacheco LTDA.	Laboratorios Dentales	Huérfanos 713 SANTIAGO - RM	NA	(56)222268365
+laboratorio	Laboratorio Clinico Huelen Limitada	Laboratorios Clinicos	Suecia 1929 PROVIDENCIA - RM	NA	(56)226398980
+laboratorio	Silva y Pincheira Ltda	Laboratorios Clinicos	Av Macul 4880 MACUL - RM	NA	(56)223439762
+laboratorio	Laboratorio de Especialidades Pediatricas LTDA.	Laboratorios Clinicos	Antonio Varas 113 PROVIDENCIA - RM	NA	(56)223191610
+laboratorio	Megalab S a	Laboratorios Clinicos	Pte. Germán Riesco 216 Rancagua - VI Región	NA	(56)222355447
+laboratorio	Laboratorio de Anatomia Patologica	Laboratorios Clinicos	Constitución 876 Chillán - VIII Región	NA	(56)722227742
+laboratorio	Laboratorio del Carmen	Laboratorios Clinicos	Av Horacio Aránguiz Cerda 642 San Vicente - VI Región	NA	(56)422231030
+laboratorio	Laboratorio Fotografico Photolab Limitada	Laboratorios Fotograficos	Merced 832 SANTIAGO - RM	www.photolabdigital.cl	(56)226950864
+laboratorio	Laboratorio Dental Juan Rios	Laboratorios Dentales	Pje Navarino 3994 Antofagasta - II Región	NA	(56)552436017
+laboratorio	Laboratoria Dental Alfonso Alcaino	Laboratorios Dentales	Av Providencia 2370 PROVIDENCIA - RM	NA	(56)222336076
+laboratorio	Wyping	Equipos Para Laboratorios	Chungará 916 RENCA - RM	www.wyping.cl	(56)226452224
+laboratorio	Diagnofruit	Laboratorios Clinicos	Av Holanda 2964 ÑUÑOA - RM	www.diagnofruit.cl	(56)227239081
+laboratorio	Sociedad Profesional Laboratorio Dental Corpodent LTDA.	Laboratorios Dentales	Av Apoquindo 3401 LAS Condes - RM	WWW.CORPODENT.CL	(56)222313569
+laboratorio	Consultora y Asesorias Profesionales Moncada Caceres LTDA.	Equipos Para Laboratorios	Av Ignacio Collao 845 Concepción - VIII Región	NA	(56)413170561
+laboratorio	Laboratorios Cañas	Laboratorios Dentales	Av Nueva Providencia 2155 PROVIDENCIA - RM	NA	(56)223353520
+laboratorio	Laboratorio Clinico Dra.Ruth Schurch	Laboratorios Clinicos	Manuel Bulnes 815 Temuco - IX Región	NA	(56)452532488
+laboratorio	Laboratorio Dental Ordent	Laboratorios Dentales	Av Benjamín Vicuña Mackenna 874 Quilpué - V Región	NA	(56)322919827
+laboratorio	Biosalud	Laboratorios Clinicos	Urriola 618 Rengo - VI Región	www.laborioclinicobiosalud.cl	(56)722512309
+laboratorio	Laboratorio de Especialidades Medicas	Laboratorios Clinicos	Beaucheff 825 Valdivia - XIV Región	www.labemed.cl	(56)632213886
+laboratorio	Lab-Tec	Equipos Para Laboratorios	Miguel de Atero 2566 QUINTA Normal - RM	www.lab-tec.cl	(56)227722868
+laboratorio	Cliniica y Laboratorio Dental Obreque y Gonzalez Limitada	Laboratorios Dentales	Vía Láctea 4096 MACUL - RM	NA	(56)227893141
+laboratorio	Laboratorio Perfect Dental	Laboratorios Dentales	General Holley 2381 PROVIDENCIA - RM	NA	(56)981361186
+laboratorio	Eli Lilly Interamerica Inc y CIA. LTDA.	Laboratorios Farmaceuticos	Av Apoquindo 3600 LAS Condes - RM	www.lilly.com	(56)229129700
+laboratorio	Cancino Munoz y Cia Ltda	Articulos Para Laboratorios	Av Manuel Montt 037 PROVIDENCIA - RM	www.cemes-biosystems.cl	(56)222356142
+laboratorio	Coyhang Laboratorio Dental	Laboratorios Dentales	Av La Estrella 1671 CERRO Navia - RM	www.dentalcoyhang.cl	(56)226672136
+laboratorio	Laboratorio Dental Nordetti	Laboratorios Dentales	Pje Ahumada 069 ISLA de Maipo - RM	NA	(56)228192198
+laboratorio	Laboratorio Clinico Aisenlab	Laboratorios Clinicos	Ramón Freire 06 Coyhaique - XI Región	NA	(56)672230791
+laboratorio	Laboratorio Clinico Automatizado	Laboratorios Clinicos	Pje Sltr Esperanza 129 Pozo Almonte - I Región	NA	(56)572753701
+laboratorio	Laboratorio Ballerina	Laboratorios De Cosmeticos	Antonio Escobar Will 190 CERRILLOS - RM	www.labach.cl	(56)229253000
+laboratorio	Laboratorio Clínico San Pedro	Laboratorios Clinicos	Caupolicán 734 Curanilahue - VIII Región	NA	(56)442860334
+laboratorio	Drogueria Global Pharma Spa	Laboratorios Farmaceuticos	Av Las Américas 173 CERRILLOS - RM	www.global-pharma.cl	(56)228384400
+laboratorio	Laboratorio y Centro Radiologico Ire	Laboratorios Clinicos	Victoria 524 SAN Bernardo - RM	NA	(56)228791235
+laboratorio	Laboratorio Clinico Alcantara	Laboratorios Clinicos	Membrillar 260 Cabrero - VIII Región	NA	(56)432419477
+laboratorio	Laboratorio Biohealth	Laboratorios Clinicos	Manuel Baquedano 781 Natales - XII Región	NA	(56)612691221
+laboratorio	Farmacia San Miguel	Laboratorios Farmaceuticos	Latorre 115 Huasco - III Región	NA	(56)512531470
+laboratorio	Br Proyectos de Ingeniería E.I.R.L	Equipos Para Laboratorios	Marcel Duhaut 2977 PROVIDENCIA - RM	WWW.BRPROYECTOS.CL	(56)229208451
+laboratorio	Labocenter	Laboratorios Clinicos	Av José Manuel Infante 146 PROVIDENCIA - RM	NA	(56)226112700
+laboratorio	Rtr Studio	Laboratorios Fotograficos	José Donoso 10983 LA Pintana - RM	www.rtrstudio.cl	(56)950276664
+laboratorio	Mi Primera Foto	Laboratorios Fotograficos	Lo Fontecilla 201 LAS Condes - RM	www.tuprimerafoto.cl	(56)995401244
+laboratorio	De Cuerpo y Alma	Laboratorios Fotograficos	No Publica Dirección 0 ÑUÑOA - RM	WWW.DECUERPOYALMA.CL	(56)993325960
+laboratorio	Estudio Fotografico Fe	Laboratorios Fotograficos	Monseñor Eyzaguirre 660 ÑUÑOA - RM	WWW.ESTUDIOFE.CL	(56)222371483
+laboratorio	Centro de Especialidades Odontologicas y Medi	Laboratorios Dentales	Carmen 334 Ovalle - IV Región	NA	(56)532624406
+laboratorio	Laboratorio Clinico Bannen Ltda	Laboratorios Clinicos	Pedro Bannen 125 PROVIDENCIA - RM	NA	(56)222745384
+laboratorio	Laboratorio Clínico y Centro Médico San Rafael	Laboratorios Clinicos	Catedral 322 Cauquenes - VII Región	NA	(56)732287025
+laboratorio	Laboratorio de Cosmeticos D'Albert Lorenz LTDA.	Laboratorios De Cosmeticos	San Vicente 1248 SANTIAGO - RM	www.dalbertlorezz.cl	(56)226838643
+laboratorio	Colorbel	Laboratorios De Cosmeticos	Madrid 2034 SANTIAGO - RM	www.colorbel.cl	(56)225565608
+laboratorio	Importadora Borotecsa Limitada	Articulos Para Laboratorios	San Vicente 775 SANTIAGO - RM	www.brotesca.cl	(56)226814878
+laboratorio	Escandinavia Dental	Laboratorios Dentales	Andrés de Fuenzalida 22 PROVIDENCIA - RM	NA	(56)223812161
+laboratorio	Lundbeck Chile	Laboratorios Farmaceuticos	Av Vitacura 5250 VITACURA - RM	www.lundbeck.cl	(56)222478685
+laboratorio	Laboratorio Clinico Biomec	Laboratorios Clinicos	Aníbal Pinto 397 Cabrero - VIII Región	NA	(56)432419041
+laboratorio	Centro de Diagnosticos Biogen	Laboratorios Clinicos	Merced 332 SANTIAGO - RM	www.cedib.cl	(56)226380694
+laboratorio	Cia Consultora y Prestadora de Servicios Ltda	Laboratorios Clinicos	Pje Los Flamencos 513 Vallenar - III Región	NA	(56)512531781
+laboratorio	Sonorad	Laboratorios Clinicos	Ps Las Bellotas 200 PROVIDENCIA - RM	www.sonorad.cl	(56)224894000
+laboratorio	Tu Origen	Laboratorios Clinicos	Av Apoquindo 6410 LAS Condes - RM	www.tuorigen.cl	(56)223462633
+laboratorio	Laboratorio Diagnolab	Laboratorios Clinicos	Av Granaderos 1474 Calama - II Región	NA	(56)552531452
+laboratorio	Centro Medico Nicobal	Laboratorios Clinicos	Av José Manuel Balmaceda 4308 RENCA - RM	NA	(56)226413236
+laboratorio	Laboratorio Macromedica	Laboratorios Clinicos	O'Higgins 453 SAN Bernardo - RM	www.laboratoriomacromedia.cl	(56)228562978
+laboratorio	Protesis Dentales Jaque	Laboratorios Dentales	Cno Santa Eliana 0 MELIPILLA - RM	www.protesisdentales.cl	(56)987746672
+laboratorio	Laboratorio Clinico 12 de Febrero LTDA.	Laboratorios Clinicos	12 de Febrero 559 SAN Bernardo - RM	NA	(56)228591531
+laboratorio	Laboratorio Corvalan	Laboratorios Clinicos	Merced 380 SANTIAGO - RM	NA	(56)226646496
+laboratorio	Genytec	Laboratorios Clinicos	Cnel. Stgo. Bueras 160 SANTIAGO - RM	www.genytec.cl	(56)226335269
+laboratorio	Foto Maravilla	Laboratorios Fotograficos	Doctor Juan Noé 898 Arica - XV Región	NA	(56)582233778
+laboratorio	Pia - Rho Salon	Laboratorios De Cosmeticos	Armando Moock 3561 MACUL - RM	NA	(56)222949430
+laboratorio	Belinda	Laboratorios De Cosmeticos	Barón de Juras R. 4590 CONCHALÍ - RM	NA	(56)227363389
+laboratorio	Lapicito	Laboratorios De Cosmeticos	Pje Economía 8402 CERRO Navia - RM	NA	(56)226438557
+laboratorio	Blue Berry	Laboratorios De Cosmeticos	Av España 933 San Fernando - VI Región	NA	(56)722712453
+laboratorio	Todo Tec	Laboratorios De Cosmeticos	Angel Pimentel 02121 PUENTE Alto - RM	NA	(56)992430925
+laboratorio	Centro Medico y Laboratorio Dr Castro	Laboratorios Clinicos	Int. Kurt Moller 437 Linares - VII Región	NA	(56)732210687
+laboratorio	Laboratorio Clinico Aleman	Laboratorios Clinicos	Manuel Montt 378 Curicó - VII Región	www.laboratorioclinicoaleman.cl	(56)752323749
+laboratorio	Eurofins	Laboratorios De Analisis De Agua	Marco Polo 9038 Hualpén - VIII Región	NA	(56)412461100
+laboratorio	Aqualaq LTDA.	Laboratorios De Analisis De Agua	Pelantaro 750 Concepción - VIII Región	www.viejozorro.cl	(56)412310803
+laboratorio	Ama Seguridad Trabajo y Publicitaria	Laboratorios De Productos Naturales	San Antonio 50 SANTIAGO - RM	NA	(56)228559562
+laboratorio	Cimm Tecnologias y Servicios S.A.	Laboratorios De Analisis Quimico	Los Carpinteros 1160 Coquimbo - IV Región	www.cimm-tys.cl	(56)552310205
+laboratorio	Andes Analytical Assay	Laboratorios De Analisis Quimico	El Totoral 651 QUILICURA - RM	www.3aaa.cl	(56)227471265
+laboratorio	Geo-Laquim	Laboratorios De Analisis Quimico	11 0 Copiapó - III Región	www.geolaquim.cl	(56)522525549
+laboratorio	Terrasonda	Laboratorios De Ensayo De Materiales	Av Williams Condon 3076 San Pedro de la Paz - VIII Región	www.terrasonda.cl	(56)412792718
+laboratorio	Gladys Cristina Tagle Parra y CIA. LTDA.	Laboratorios De Analisis Quimico	Cerro Los Cóndores 9951 QUILICURA - RM	NA	(56)227385127
+laboratorio	Tracelab S a	Laboratorios De Analisis Quimico	Pje Isla de Capri 1819 Puerto Montt - X Región	NA	(56)652275050
+laboratorio	Especialidades Tecnicas Marinas Etecma	Laboratorios De Analisis Bacteriologico	Ramón Freire 488 Castro - X Región	www.etecma.cl	(56)652533663
+laboratorio	Servicios Chilenos de Inspeccion LTDA.	Laboratorios De Analisis Quimico	San Antonio 540 SANTIAGO - RM	www.oti-chile.cl	(56)226515851
+laboratorio	Biotoscana Farma	Laboratorios De Productos Naturales	Av Bicentenario 3883 VITACURA - RM	www.biotoscana.com	(56)228261600
+laboratorio	Gestion en Acuicultura y Medio Ambiente Ltda	Laboratorios De Analisis De Agua	Av Ejército 0 Antofagasta - II Región	NA	(56)552258161
+laboratorio	Dropco	Laboratorios De Productos Naturales	Limache 1227 Viña del Mar - V Región	www.dropco.cl	(56)322479019
+laboratorio	Servilab Ltda	Laboratorios De Ensayo De Materiales	Av Chacabuco 31 Los Andes - V Región	www.servilab.cl	(56)976082176
+laboratorio	Aura Vitalis	Laboratorios De Productos Naturales	Ecuador 1590 Quilpué - V Región	www.auravitalis.cl	(56)322928732
+laboratorio	Laboratorio R. Ferna Ndez LTDA.	Laboratorios De Ensayo De Materiales	3 Oriente 2058 Talca - VII Región	NA	(56)712214077
+laboratorio	Soc Hormitec	Laboratorios De Ensayo De Materiales	R V-505 0 Puerto Montt - X Región	www.hormitec.cl	(56)652267670
+laboratorio	Labser	Laboratorios De Analisis Quimico	Cno Vecinal 950 Rancagua - VI Región	www.labser.cl	(56)722339200
+laboratorio	Quality	Laboratorios De Analisis Quimico	Av Carrascal 3277 QUINTA Normal - RM	www.bioquality-chile.cl	(56)226821643
+laboratorio	Servitox	Laboratorios De Analisis Toxicologico	E. Pinto Lagarrigue 281 RECOLETA - RM	www.servitox.cl	(56)227771994
+laboratorio	Lematco	Laboratorios De Ensayo De Materiales	Ecuador 2502 Temuco - IX Región	www.lematco.cl	(56)452465470
+laboratorio	Arama Laboratorios y Cia Ltda	Laboratorios De Productos Naturales	Av Recoleta 3581 RECOLETA - RM	www.arama.cl	(56)226402600
+laboratorio	Aqua Calidad del Agua LTDA.	Laboratorios De Analisis De Agua	Almirante Latorre 548 SANTIAGO - RM	NA	(56)226972407
+laboratorio	Comercial Hual Ltda	Laboratorios De Analisis Quimico	Berlioz 5760 SAN Joaquín - RM	www.hual.cl	(56)225254798
+laboratorio	Servicio de Control de Calidad LTDA.	Laboratorios De Analisis Quimico	Av Alcalde Carlos Valdovinos 2351 PEDRO Aguirre Cerda - RM	www.sercoc.cl	(56)225544493
+laboratorio	Laboratorio Reccius Limitada	Laboratorios De Analisis Quimico	Pucará 5326 ÑUÑOA - RM	NA	(56)222775464
+laboratorio	Labocent	Laboratorios De Ensayo De Materiales	7 Norte 1691 Talca - VII Región	NA	(56)712237046
+laboratorio	Soc de Serv de Laboratorio y Arriendo de Equipos Villa Alegr	Laboratorios De Ensayo De Materiales	Av Cancha Rayada 1856 Talca - VII Región	NA	(56)712213241
+laboratorio	Laboratorio Fgf Analisis Mineros	Laboratorios De Analisis Quimico	Nueva 5 1251 Coquimbo - IV Región	www.laboratoriofgf.cl	(56)990435130
+laboratorio	Innovaquimica	Laboratorios De Analisis Quimico	Los Fresnos 650 COLINA - RM	WWW.INNOVAQUIMICA.CL	(56)227387478
+laboratorio	Biochemical Chile LTDA.	Laboratorios De Analisis Quimico	Crescente Errázuriz 823 Loncoche - IX Región	NA	(56)452471345
+laboratorio	Activation Laboratorios	Laboratorios De Analisis Quimico	Av La Cantera 2270 Coquimbo - IV Región	www.actlabs.com	(56)512278358
+laboratorio	Laboratorio Microbiologico	Laboratorios De Analisis Bacteriologico	San Martin 423 Concepción - VIII Región	NA	(56)412465443
+laboratorio	Bal Chile S.A.	Laboratorios De Productos Naturales	La Quebrada 1005 Puerto Varas - X Región	WWW.BAL.COM	(56)652335579
+laboratorio	Cosmetica Natural Koan	Laboratorios De Productos Naturales	Ejército Libertador 510 SANTIAGO - RM	www.koan.cl	(56)967463973
+laboratorio	Laboratorio Golden Green	Laboratorios De Productos Naturales	Conferencia 1046 SANTIAGO - RM	www.goldengreen.cl/	(56)226836200
+laboratorio	Arlab	Laboratorios De Analisis Quimico	Av El Bosque 352 PROVIDENCIA - RM	NA	(56)222518881
+laboratorio	Nsure Chile S.A.	Laboratorios De Productos Naturales	Estoril 120 LAS Condes - RM	www.nsure.nl	(56)229488181
+laboratorio	Isq	Laboratorios De Analisis Quimico	Av Parque San Pedro del Valle 1905 San Pedro de la Paz - VIII Región	www.isq.cl	(56)413165743
+laboratorio	Fuchslocher Salgado Hugo Archivaldo	Laboratorios De Productos Naturales	Eulogia Sánchez 048 PROVIDENCIA - RM	NA	(56)226352100
+laboratorio	Noracid	Laboratorios De Analisis Quimico	Av El Bosque Norte 500 LAS Condes - RM	NA	(56)226301976
+laboratorio	Ingcer LTDA.	Laboratorios De Ensayo De Materiales	Padre Orellana 1298 SANTIAGO - RM	www.ingcer.cl	(56)225550215
+laboratorio	Ensayes S.A.C.	Laboratorios De Ensayo De Materiales	Gerónimo Méndez 1851 Coquimbo - IV Región	www.ensayes.cl	(56)512543065
+laboratorio	Sergio Legrand Fonseca E.I.R.L.	Reparacion De Equipos Para Laboratorios	Pje Parque de la Hacienda 08068 PUENTE Alto - RM	NA	(56)998018231
+laboratorio	Labotec LTDA.	Laboratorios De Ensayo De Materiales	Manuel Montt 586 Osorno - X Región	NA	(56)642258080
+laboratorio	Labticom Suelos y Hormigones	Laboratorios De Ensayo De Materiales	Pje Amsterdam 342 Rancagua - VI Región	NA	(56)998365509
+laboratorio	Laboratorio de Ensayos de Materiales Pucv	Laboratorios De Ensayo De Materiales	Cno Internacional 5465 Viña del Mar - V Región	www.lepuc.cl	(56)672252754
+laboratorio	Agriquem America S.A.	Laboratorios De Analisis Quimico	Industriales 697 HUECHURABA - RM	www.agriquem.com	(56)222484910
+laboratorio	Laboratorio Oficial Pampa Austral LTDA.	Laboratorios De Ensayo De Materiales	Santa Blanca 51 Chillán - VIII Región	www.pampaustral.cl	(56)422238290
+laboratorio	Laboratorio de Suelos Hormigones y Asfaltos Controlab E.I.R.	Laboratorios De Ensayo De Materiales	9 Norte 1623 Talca - VII Región	NA	(56)712217197
+laboratorio	Fundacion Invecc	Laboratorios De Ensayo De Materiales	Infante 985 La Serena - IV Región	www.invecc.cl	(56)512227054
+laboratorio	Adl Diagnostic Chile	Laboratorios De Analisis De Agua	Los Carrera 492 Castro - X Región	NA	(56)652250234
+laboratorio	Hidrolab	Laboratorios De Analisis De Agua	Av Central 681 QUILICURA - RM	www.hidrolab.cl	(56)227566350
+laboratorio	Pro Quimica	Laboratorios De Analisis Quimico	Av Lo Espejo 0240 EL Bosque - RM	www.proquimica.com	(56)225487353
+laboratorio	Labotec	Laboratorios De Ensayo De Materiales	Av Balmaceda 48 Temuco - IX Región	www.labotecltda.cl	(56)452738000
+laboratorio	Laboratorio Clinico Valparaiso Limitada	Laboratorios De Analisis Quimico	13 Norte 635 Viña del Mar - V Región	NA	(56)322678248
+laboratorio	Lepucv S.A.	Laboratorios De Ensayo De Materiales	Cno Internacional 5465 Viña del Mar - V Región	www.lepucv.cl	(56)522220519
+laboratorio	Biodiversa S.A.	Laboratorios De Analisis De Agua	DIAG. P. A. C. 1129 Concepción - VIII Región	www.biodiversa.com	(56)966189935
+laboratorio	Corthorn Quality	Laboratorios De Analisis Quimico	Palacio Riesco 4549 HUECHURABA - RM	www.corthorn.cl	(56)225808000
+laboratorio	Sociedad Constructora de Obras Civiles y Laboratorios Labcom	Laboratorios De Ensayo De Materiales	Las Heras 371 Temuco - IX Región	NA	(56)994430375
+laboratorio	Quality Lab Laboratorio Consultoria y Capacitacion Limitada	Laboratorios De Analisis Bacteriologico	Sargento Aldea 369 Curicó - VII Región	NA	(56)752313266
+laboratorio	Ingenieria Suelos Hormigones Asfaltos Li	Laboratorios De Ensayo De Materiales	San Ignacio 1656 SANTIAGO - RM	NA	(56)225569787
+laboratorio	Asistencia Tecnica y Social para Proyectos Habitacionales	Laboratorios De Ensayo De Materiales	Av España 0 Temuco - IX Región	NA	(56)452453075
+laboratorio	Actlabs Chile S.A.	Laboratorios De Analisis Quimico	Gerónimo Méndez 1960 Coquimbo - IV Región	WWW.ACTLABSCHILE.CL	(56)996393681
+laboratorio	Servicios y Construcciones Biwater S a	Laboratorios De Analisis De Agua	Av Edmundo Pérez Zujovic 6444 Antofagasta - II Región	NA	(56)552237440
+laboratorio	Firm Grand S a	Laboratorios De Analisis Quimico	Juan Glasinovic 480 Antofagasta - II Región	NA	(56)552555250
+laboratorio	Labsur	Laboratorios De Ensayo De Materiales	Monjitas 537 SANTIAGO - RM	NA	(56)712237046
+laboratorio	Lepucv S.A.	Laboratorios De Ensayo De Materiales	Av Brasil 2147 Valparaíso - V Región	WWW.LEPUCV.CL	(56)322273617
+laboratorio	Laboratorio Aconcagua	Laboratorios De Ensayo De Materiales	Ana María Carey 200 Rinconada - V Región	NA	(56)342489709
+laboratorio	Acca	Laboratorios De Ensayo De Materiales	Lynch Norte 35 LA Reina - RM	www.accaltda.cl	(56)227896266
+laboratorio	Acme Analytical Laboratories S.A.	Laboratorios De Analisis Quimico	Cjón Diego de Almagro 0 Copiapó - III Región	WWW.ACMELAB.COM	(56)522535864
+laboratorio	Laboratorio Hidrolab LTDA.	Laboratorios De Analisis Quimico	El Tránsito 96 Copiapó - III Región	WWW.HIDROLAB.CL	(56)522524966
+laboratorio	Lemuc LTDA.	Laboratorios De Ensayo De Materiales	Santa Isabel 1186 SANTIAGO - RM	www.lemuc.cl	(56)225826924
+laboratorio	Sociedad Comercial Rilab Limitada	Laboratorios De Analisis Quimico	Cno a Melipilla 7003 CERRILLOS - RM	www.laboratoriosrilab.cl	(56)227991850
+laboratorio	Bio Insumos Nativa Spa	Laboratorios De Productos Naturales	Parcela Antilhue 0 Maule - VII Región	NA	(56)712970698
+laboratorio	Laboratorio de Histopatologia	Laboratorios De Analisis Bacteriologico	Enrique Mac-Iver 22 SANTIAGO - RM	NA	(56)226330867
+laboratorio	Alfatek LTDA.	Laboratorios De Ensayo De Materiales	Guacolda 0697 Temuco - IX Región	NA	(56)452225277
+laboratorio	Ingecontrol	Laboratorios De Ensayo De Materiales	Los Laureles 318 Puerto Montt - X Región	www.ingecontrol.cl	(56)652253736
+laboratorio	Sikon Ltda	Laboratorios De Ensayo De Alimentos	2½ Poniente 49 Talca - VII Región	NA	(56)950803988
+laboratorio	Geoanalitica	Laboratorios De Analisis Quimico	Gerónimo Méndez 1740 Coquimbo - IV Región	www.geoanalitica.cl	(56)512230058
+laboratorio	Biotecnologia Internacional S.A.	Laboratorios De Analisis Bacteriologico	Cuevas 1249 SANTIAGO - RM	NA	(56)225545699
+laboratorio	Laboratorio Quimico Metalurgico	Laboratorios De Analisis Quimico	R 5 Norte 161 Copiapó - III Región	NA	(56)522213654
+laboratorio	Universidad de Playa Ancha	Laboratorios De Analisis De Agua	Av Playa Ancha 850 Valparaíso - V Región	www.ldt.cl	(56)322346279
+laboratorio	Centro Nacional del Medio Ambiente	Laboratorios De Analisis Quimico	Av Larraín 9975 LA Reina - RM	www.cenma.cl	(56)222994100
+laboratorio	Biotecnologias Antofagasta S.A.	Laboratorios De Analisis Quimico	Las Araucarias 9080 QUILICURA - RM	www.biotecnologiasantofagasta.cl	(56)224435073
+laboratorio	Jacqueline Karina Urizar Albornoz Laborat Quimico Minero Met	Laboratorios De Analisis Quimico	Av Víctor Manuel 1405 SANTIAGO - RM	WWW.QUIMUSCHILE.CL	(56)994471714
+laboratorio	Geolab LTDA.	Laboratorios De Ensayo De Materiales	Pisagua 497 Chimbarongo - VI Región	www.geholab.cl	(56)722782817
+laboratorio	Quality	Laboratorios De Productos Naturales	2 Sur 795 Talca - VII Región	NA	(56)712217160
+laboratorio	Labinco E.I.R.L.	Laboratorios De Ensayo De Materiales	Venecia 1905 Temuco - IX Región	www.labinco.cl	(56)452269800
+laboratorio	Vinolab Ltda	Laboratorios De Analisis Quimico	Cno Antiguo a Valparaíso 0 PADRE Hurtado - RM	www.vinolab.cl	(56)228111281
+laboratorio	Sgs Lakefield Research Chile S.A.	Laboratorios De Analisis Quimico	Av Pedro Aguirre C 7367 Antofagasta - II Región	NA	(56)552475575
+laboratorio	Sercofar	Laboratorios De Productos Naturales	San Francisco 1599 SANTIAGO - RM	www.sercofar.cl	(56)225564394
+laboratorio	Fitolab LTDA.	Laboratorios De Analisis Quimico	Av Nueva Providencia 1363 PROVIDENCIA - RM	NA	(56)994181894
+laboratorio	Quimico Carrasco	Laboratorios De Analisis Quimico	Puerto de Palos 4923 LAS Condes - RM	NA	(56)222284718
+laboratorio	V y S Biosoluciones	Laboratorios De Analisis De Agua	Av Gral Oscar B 6047 LO Prado - RM	NA	(56)984392833
+laboratorio	Laboratorio Manuel Ruiz y CIA. LTDA.	Laboratorios De Analisis Quimico	Santa Elena 1209 SANTIAGO - RM	www.mrlab.cl	(56)225543645
+laboratorio	Laboratorio Oasis	Almacenes De Barrio	Av Central Sur 1891 Calama - II Región	NA	(56)552337455
+laboratorio	Laboratorio Madison	Outsourcing De Personal	Antonio Poupin 1106 Antofagasta - II Región	www.madisonchile.cl	(56)552288510
+laboratorio	Laboratorio Computacional	Servicios Computacionales	DIAG. P. A. C. 441 Concepción - VIII Región	www.rodrigolopezporcile.cl	(56)412794686
+laboratorio	Laboratorio Lacofar	Control De Calidad	Emiliano Figueroa 851 SANTIAGO - RM	www.lacofar.cl	(56)226341066
+laboratorio	Laboratorio Handson	Tintas Para Cueros	Lira 972 SANTIAGO - RM	NA	(56)222221217
+laboratorio	Laboratorio Lmc	Balanzas	Av Los Cerrillos 75 CERRILLOS - RM	www.lmcsa.cl	(56)223635200
+laboratorio	Laboratorio Ramalab	Asesoria Ambiental	Los Carrera 435 Castro - X Región	www.ramalab.cl	(56)652636132
+laboratorio	Barmed Laboratorio	Medicos Anatomia Patologica	Zegers 179 Iquique - I Región	www.barmed.cl	(56)572421852
+laboratorio	Laboratorio Citolab	Medicos Anatomia Patologica	Hernando de Aguirre 201 PROVIDENCIA - RM	www.citolab.cl	(56)226507500
+laboratorio	Laboratorio Aquagea	Consultores Ambientales	Av Los Volcanes 46 Llanquihue - X Región	www.geeaa.cl	(56)652240095
+laboratorio	Laboratorio Quiolab	Medicos Centros Medicos	Av Ramón Picarte 1471 Valdivia - XIV Región	NA	(56)632212000
+laboratorio	Laboratorio Farmacutico	Farmacias	Av Vitacura 5250 VITACURA - RM	NA	(56)226571864
+laboratorio	Laboratorio Ceneade	Maquinaria Para Mineria	Rivas 865 SAN Miguel - RM	www.ceneade.cl	(56)225519754
+laboratorio	Laboratorio del Parlante	Parlantes	Aníbal Pinto 343 Concepción - VIII Región	NA	(56)995876245
+laboratorio	Laboratorio M&K	Asesorias Comerciales	Mariano Latorre 0256 PUENTE Alto - RM	www.laboratoriomk.cl	(56)228506972
+laboratorio	Laboratorio Driver	Analisis De Gases De Vehiculos	Av Pedro Aguirre Cerda 6925 Antofagasta - II Región	www.drivertrm.cl	(56)552530580
+laboratorio	Laboratorio de Histopatología Cemesi	Medicos Anatomia Patologica	Av Nueva Providencia 1881 PROVIDENCIA - RM	NA	(56)222336515
+laboratorio	Academia de Guitarra y Bajo el Laboratorio	Escuelas De Musica	Maipú 847 Punta Arenas - XII Región	NA	(56)612247756
+laboratorio	Laboratorio Deterfarma Ltda	Detergentes	David Rosas 492 Osorno - X Región	www.deterfarma.cl	(56)642203388
+laboratorio	Laboratorio Ortopedico Nacional	Articulos Ortopedicos	Thompson 559 Iquique - I Región	NA	(56)572429180
+laboratorio	Laboratorio Dental Valdivia	Dentistas Clinicas Dentales	Victoria 695 Coyhaique - XI Región	www.dentalvaldivia.cl	(56)672241143
+laboratorio	Beforlab Laboratorio Dental	Dentistas Clinicas Dentales	Ejército 675 Concepción - VIII Región	NA	(56)413240098
+laboratorio	Laboratorio Sergio Rojas	Tecnologos Medicos	Av Regimiento Arica 6069 La Serena - IV Región	www.laboratorioclinicosergiorojas.cl	(56)961897362
+laboratorio	Laboratorio Andino S.A.	Ingenieros De Suelos	Trinidad Ramírez 01090 LA Cisterna - RM	www.labandino.cl	(56)229871519
+laboratorio	Laboratorio Old Gold	Articulos Para Guaguas	Av San Pablo 2311 SANTIAGO - RM	www.laboldgold.cl	(56)226972284
+laboratorio	Laboratorio Dental Wirovest	Dentistas	San Antonio 31 SANTIAGO - RM	www.laboratoriodentalwirovest.cl	(56)974322156
+laboratorio	Laboratorio Dental Dentosistema	Dentistas	Aníbal Pinto 372 Concepción - VIII Región	www.dentosistema.cl	(56)412235490
+laboratorio	Laboratorio Clinico Vival	Medicos Centros Medicos	Monjitas 843 SANTIAGO - RM	www.vival.cl	(56)226321855
+laboratorio	Laboratorio Institucional Limitada	Equipos Para Limpieza Industrial	Av Américo Vespucio 1385 MAIPÚ - RM	WWW.LABORATORIOINSTITUCIONAL.CL	(56)226639311
+laboratorio	Laboratorio Clinico Cubano	Medicos Centros Medicos	6 Oriente 417 Viña del Mar - V Región	NA	(56)974765241
+laboratorio	Laboratorio Ortopedico Ortecor	Articulos Ortopedicos	Av Francisco de Aguirre 324 La Serena - IV Región	www.ortecor.cl	(56)512210241
+laboratorio	Laboratorio Food Safety	Control De Calidad	Av Salvador 2194 ÑUÑOA - RM	www.foodsafetychile.cl	(56)222232983
+laboratorio	Laboratorio Auraesencial Limitada	Farmacias	San Isidro 1920 SANTIAGO - RM	NA	(56)228242499
+laboratorio	Laboratorio Cerolab Limitada	Pymes	Av Providencia 2601 PROVIDENCIA - RM	NA	(56)223340956
+laboratorio	Laboratorio Labodent Limitada	Medicos	Baquedano 796 Arica - XV Región	NA	(56)582258727
+laboratorio	Laboratorio Veterinaria Petlab	Clinicas Veterinarias	Cno Las Rosas 05 Machalí - VI Región	NA	(56)722275153
+laboratorio	Mano Laboratorio Creativo	Diseño Grafico	Av Alvarez 58 Viña del Mar - V Región	www.webmano.cl	(56)977491928
+laboratorio	Laboratorio Estela Cuevas	Protesis Oculares	Manuel Recabarren 01995 Temuco - IX Región	NA	(56)452251095
+laboratorio	Laboratorio Vida Test	Accesorios Para Computadores	Av Vicuña Mackenna 10557 LA Florida - RM	www.policenter.cl	(56)223933211
+laboratorio	Bts Intrade Laboratorio	Bodegajes	Lago General Carrera 20 PUDAHUEL - RM	www.bts.cl	(56)227491773
+laboratorio	Articulos de Laboratorio Silicalab	Productos Farmaceuticos	Av México 2241 PUENTE Alto - RM	NA	(56)229861962
+laboratorio	Laboratorio Petrizzio S.A.	Cosmeticos	Av Américo Vespucio 1800 QUILICURA - RM	WWW.PETRIZZIO.CL	(56)224483836
+laboratorio	Laboratorio Digital-Analogo	Fotografias	Diego Portales 787 Quilpué - V Región	www.fotodigitalescobar.cl	(56)322919965
+laboratorio	Laboratorio Ortopedico Nacional	Ortopedistas Protesistas	Av Diagonal Paraguay 110 SANTIAGO - RM	www.ortopedianacional.cl	(56)222225475
+laboratorio	Laboratorio de Inyeccion Diesel Canchaya	Reparacion De Bombas De Inyeccion	El Tofo 3171 Arica - XV Región	NA	(56)582219419
+laboratorio	Laboratorio Clinico Doctor Moure	Dentistas Odontologia General	Tocornal 67 PUENTE Alto - RM	NA	(56)228502671
+laboratorio	Laboratorio Color Centurion Ltda	Fotografias	Ps Ahumada 154 SANTIAGO - RM	NA	(56)223772869
+laboratorio	Centro de Tratamiento y Laboratorio Respiratorio	Medicos Centros Medicos	Dinamarca 621 Temuco - IX Región	www.centris.cl	(56)452230868
+laboratorio	Laboratorio Fotografico Photolab Limitada	Fotografias	Merced 832 SANTIAGO - RM	NA	(56)226883043
+laboratorio	Laboratorio Blue Star Chile	Productos Quimicos	Miguel de Atero 2575 QUINTA Normal - RM	www.bluestar.cl	(56)227720042
+laboratorio	Laboratorio Dental Carmen Jara	Protesis	Sargento Aldea 849 EL Bosque - RM	www.laboratoriodentalcarmenjara.cl	(56)999309432
+laboratorio	Laboratorio de Diagnosticos Bioclinico S.A.	Instituciones De Salud Previsional	San Agustín 473 MELIPILLA - RM	NA	(56)229281607
+laboratorio	Laboratorio Dental Sergio Farias	Dentistas	Lib. B.O'Higgins 688 La Serena - IV Región	www.laboratoriodentalsergiofarias.cl	(56)995366166
+laboratorio	Equipos Medicos Laboratorio y Refigeracion	Servicios Y Productos Varios	Pje Los Reyes Católicos 12005 LA Florida - RM	www.equiposmedicoslaboratorioyrefigeracion.cl	(56)968788780
+laboratorio	Laboratorio Clinico San Ignacio	Medicos Centros Medicos	Arturo Prat 598 Calera - V Región	NA	(56)332228286
+laboratorio	Laboratorio Clinico Diagnotest Ltda	Instituciones De Salud Previsional	Av Balmaceda 656 TALAGANTE - RM	NA	(56)228157503
+laboratorio	Laboratorio de Histopatologia Cemesi Limitada	Medicos	Av Nueva Providencia 1881 PROVIDENCIA - RM	NA	(56)222335844
+laboratorio	Laboratorio Fotografico Telefoto Limitada	Fotografias	Nueva Las Condes 12275 LAS Condes - RM	NA	(56)223711130
+laboratorio	Laboratorio Clinico Cerex LTDA.	Medicos	Edwards 660 Valparaíso - V Región	NA	(56)322258619
+laboratorio	Consultoria Lapetec Laboratorio de Peritajes	Peritos Judiciales	José Miguel Carrera 464 SANTIAGO - RM	NA	(56)226721965
+laboratorio	Laboratorio Dental Alex Marin	Dentistas	Balmaceda 1184 La Serena - IV Región	NA	(56)512218258
+laboratorio	Laboratorio Dental Alejandro Imbert	Dentistas	1 Norte 1735 Talca - VII Región	NA	(56)997145088
+laboratorio	Laboratorio Dental Jorge Cancino	Dentistas Clinicas Dentales	Urmeneta 581 Puerto Montt - X Región	www.novaimagen.cl	(56)652254562
+laboratorio	Laboratorio de Patologia Salvador C.R.	Medicos Anatomia Patologica	Av Salvador 149 PROVIDENCIA - RM	NA	(56)222238246
+laboratorio	Laboratorio y Drogueria Nacional   Ltda	Productos Farmaceuticos	Nueva 5374 CONCHALÍ - RM	NA	(56)226238455
+laboratorio	Laboratorio Dental Lucia Morales	Dentistas Clinicas Dentales	Av Holanda 99 PROVIDENCIA - RM	NA	(56)227893926
+laboratorio	Laboratorio Internacional de Cosmeticos S.A.	Articulos Para El Aseo	Manuel Rodríguez 69 COLINA - RM	www.mujeramiga.cl	(56)227455081
+laboratorio	Consulta y Laboratorio Dental Viani	Dentistas	Manuel Bulnes 541 Temuco - IX Región	NA	(56)452737678
+laboratorio	Prestaciones Medicas y Laboratorio Guido Osorio	Medicos Centros Medicos	General Dunham 861 ÑUÑOA - RM	NA	(56)224753738
+laboratorio	Laboratorio Digital y Eventos Foto Cristal	Fotografias	Av Valparaíso 471 Viña del Mar - V Región	www.fotocristal.cl	(56)322711801
+laboratorio	Laboratorio Dental Carlos Rojas Matus	Dentistas Clinicas Dentales	Portus 270 San Felipe - V Región	NA	(56)342535003
+laboratorio	Laboratorio de Produccion Cosmetico Marcela B	Articulos Para El Aseo	José Joaquín Pérez 2920 RENCA - RM	NA	(56)226468576
+laboratorio	Sociedad Medica Estetica y Laboratorio Limitada	Salud	Av Alto Horno 0 Talcahuano - VIII Región	NA	(56)412790728
+laboratorio	Laboratorio de Cristales Opticos Pincus Ltda	Equipos Para Oftalmologia	Moneda 1040 SANTIAGO - RM	NA	(56)226981390
+laboratorio	Laboratorio Digital y Servicios en Publicidad Wow	Asesorias Financieras	Ciudad de México 0 LA Pintana - RM	NA	(56)227395007
+laboratorio	Soc Laboratorio Clinico del Sur Ltda	Almacenes De Barrio	18 de Septiembre 154 Purranque - X Región	NA	(56)642352377
+laboratorio	Laboratorio de Ensayo de Materiales Don Carlo	Consultores En Administracion De Empresas	Los Laureles 318 Puerto Montt - X Región	NA	(56)452215967
+laboratorio	Laboratorio de Fabricacion Digital Innova LTDA.	Imprentas	Palacio Riesco 4325 HUECHURABA - RM	www.innovafablab.cl	(56)223787797
+laboratorio	Clinica Dental y Laboratorio Clinico Herde	Dentistas Clinicas Dentales	Av Circunvalación 230 Rancagua - VI Región	NA	(56)722962697
+laboratorio	Laboratorio Instituto Patologia Concepcion LTDA.	Medicos Anatomia Patologica	Castellón 317 Concepción - VIII Región	NA	(56)412210979
+laboratorio	Laboratorio de Mediciones Acn Gas Limitada	Consultores En Administracion De Empresas	Av Seminario 687 ÑUÑOA - RM	NA	(56)222489563
+laboratorio	Servicios de Laboratorio B. Araya LTDA.	Servicios Agricolas	Fundo 0 Quillota - V Región	WWW.ALTOLAB.CL	(56)992400512
+laboratorio	Traperos y Jabones Laboratorio Lalms Co LTDA.	Paños	Franklin 445 SANTIAGO - RM	www.lalmsco.cl	(56)990781478
+laboratorio	Laboratorio Dental Alvaro Adrian Velasquez Fuenzal	Salud	San Martín 655 Arica - XV Región	NA	(56)582233679
+laboratorio	Farmacia y Laboratorio Alberto Brito Martinez E.I.R.L.	Farmacias	Av Recoleta 432 RECOLETA - RM	NA	(56)227352147
+laboratorio	Laboratorio y Control de Calidad C & J Limitada	Materiales Para Construccion	Centenario 320 Rancagua - VI Región	NA	(56)997292000
