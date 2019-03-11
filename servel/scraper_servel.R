@@ -183,3 +183,4 @@ mesas("elecciones_presidente", "1030010")$data
 ##                                a        b  c      d  e f sd
 ## 1  3. SEBASTIAN PIÑERA ECHENIQUE EnBlanco 81 57,86% NA * NA
 ## 2 4. ALEJANDRO  GUILLIER ALVAREZ EnBlanco 59 42,14% NA   NA
+google_api_key = "AIzaSyApQhtvH4rdPAjM-WfiBIw8S8_k1oquQq0"
