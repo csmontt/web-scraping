@@ -15,7 +15,7 @@ sapply(lista_paquetes, require, character.only = TRUE, quietly = TRUE)
 # crea la url de la primera página de búsqueda para 
 # una palabra en especifíco.
 # e.g. 
-# crea_url("farmacÃ©utica"), crea
+# crea_url("farmaceutica"), crea
 # "http://www.amarillas.cl/buscar/q/farmaceutica"
 crea_url <- function(consulta){
         url <- paste0("http://www.amarillas.cl/buscar/q/", consulta)
@@ -24,7 +24,7 @@ crea_url <- function(consulta){
 
 
 # get_last_page() ================
-# Obtenemos el número de pÃ¡ginas para una consulta determinada
+# Obtenemos el número de páginas para una consulta determinada
 # El buscador de Las Páginas Amarillas, por defecto, devuelve 
 # 35 resultados. En la parte de arriba de la página de resultados,
 # aparecen cuantos resultados se encontraron en total para la 
